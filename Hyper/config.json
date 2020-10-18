@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		72,
+		45
+	],
+	"windowSize": [
+		666,
+		723
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-opacity\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-opacity\",\"1.0.0\"]]"
+	}
+}

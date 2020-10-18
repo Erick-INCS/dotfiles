@@ -1,0 +1,38 @@
+[Print Settings]
+cups-Resolution=1200x600dpi
+evince-print-setting-page-autorotate=true
+evince-print-setting-page-size=false
+media-type=Plain
+cups-Quality=normal
+print-at=now
+print-at-time=
+resolution-x=1200
+resolution-y=600
+cups-job-priority=50
+duplex=simplex
+cups-NupOrient=port
+cups-halftone=default
+cover-before=none
+cups-Duplex=None
+default-source=Auto
+cups-MediaType=Plain
+resolution=1200
+cover-after=none
+cups-InputSlot=Auto
+evince-print-setting-page-scale=1
+cups-NupPages=1up
+printer=HP-LaserJet-P1006
+cups-job-sheets=none,none
+cups-Density=Density3
+cups-number-up=1
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

@@ -1,0 +1,19 @@
+[global_config]
+  handle_size = 0
+  borderless = True
+  title_transmit_bg_color = "#ffffff"
+  inactive_color_offset = 0.6168831168831169
+[keybindings]
+[profiles]
+  [[default]]
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

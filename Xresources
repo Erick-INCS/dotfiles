@@ -1,0 +1,9 @@
+URxvt.buffered:         true
+URxvt.background:       black
+URxvt.foreground:       white
+URxvt.cursorColor:      green
+URxvt.underlineColor:   yellow
+URxvt.font:             xft:Terminus:pixelsize=14:antialias=false
+URxvt.boldFont:         xft:Terminus:bold:pixelsize=14:antialias=false
+URxvt.perl-ext-common:  default,tabbed
+URxvt.title:            ArchWiki Example

@@ -1,0 +1,407 @@
+[
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 3,
+                            "Ticks": 299999
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/incspn/Videos/neural_network_3d (1).m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 18,
+                            "crop-left": 22,
+                            "crop-right": 22,
+                            "crop-top": 20,
+                            "height": 362,
+                            "width": 356
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "neural_network_3d (1)"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/incspn/Downloads/neural_network_3d (1).webm",
+                "Range": {
+                    "End": 1,
+                    "Start": 1,
+                    "Type": "chapter"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 5,
+                "ColorPrimaries": 6,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 3,
+                        "Ticks": 299999
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 5,
+                "Primary": 6,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "matroska,webm",
+            "Crop": [
+                20,
+                18,
+                22,
+                22
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 3,
+                "Ticks": 299999
+            },
+            "FrameRate": {
+                "Den": 1800000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 400,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 400
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "neural_network_3d (1)",
+            "Path": "/home/incspn/Downloads/neural_network_3d (1).webm",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "vp8"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/incspn/.config/ghb/EncodeLogs/neural_network_3d (1) 2020-09-04 18-16-23.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": true,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "neural_network_3d (1)",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 18.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 362.0,
+            "PictureDisplayWidth": 356.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 22.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 22.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 20.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/incspn/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/incspn/Videos",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/incspn/Downloads/neural_network_3d (1).webm",
+                "destination_dir": "/home/incspn/Videos",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": -1,
+                "preview_y": -1,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 731,
+                "window_width": 1366
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "chapter",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/incspn/.config/ghb/Activity.log.5472",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/incspn/Videos",
+            "dest_file": "neural_network_3d (1).m4v",
+            "destination": "/home/incspn/Videos/neural_network_3d (1).m4v",
+            "display_aspect": "178:181",
+            "end_point": 1.0,
+            "job_finish_time": 1599268584,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1599268583,
+            "job_status": 4,
+            "job_unique_id": 1,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "scale_height": 362.0,
+            "scale_width": 356.0,
+            "single_title": 1.0,
+            "source": "/home/incspn/Downloads/neural_network_3d (1).webm",
+            "source_height": 400,
+            "source_label": "neural_network_3d (1)",
+            "source_width": 400,
+            "start_frame": -1,
+            "start_point": 1.0,
+            "title": "1",
+            "title_selected": false,
+            "volume": "neural_network_3d (1)",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    }
+]

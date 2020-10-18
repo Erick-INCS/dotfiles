@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/incspn/HDD/Code/SDGKU/105'
+let g:netrw_dirhist_2='/home/incspn/HDD/Code/SDGKU/104/js'
+let g:netrw_dirhist_1='/home/incspn/HDD/Code/SDGKU/104'
