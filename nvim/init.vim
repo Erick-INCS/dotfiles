@@ -13,6 +13,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 let g:coc_global_extensions = [
   \ 'coc-tsserver'
   \ ]
+Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 
 call plug#end()
 
@@ -41,6 +42,8 @@ if has("patch-8.1.1564")
 else
   set signcolumn=yes
 endif
+
+hi SignColumn ctermbg=NONE guibg=NONE
 
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by

@@ -1,5 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/home/incspn/HDD/Code/SDGKU/105'
-let g:netrw_dirhist_2='/home/incspn/HDD/Code/SDGKU/104/js'
-let g:netrw_dirhist_1='/home/incspn/HDD/Code/SDGKU/104'
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods'
+let g:netrw_dirhist_8='/home/incspn/HDD/Code/SDGKU/108'
+let g:netrw_dirhist_7='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components/navBar'
+let g:netrw_dirhist_6='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components'
+let g:netrw_dirhist_5='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src'
+let g:netrw_dirhist_4='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components/quantityPicker'
+let g:netrw_dirhist_3='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components'
+let g:netrw_dirhist_2='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src'
+let g:netrw_dirhist_1='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components/quantityPicker'
+let g:netrw_dirhist_0='/home/incspn/HDD/Code/SDGKU/108/true-wholefoods/src/components'
