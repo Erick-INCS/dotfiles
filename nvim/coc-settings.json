@@ -1,5 +1,15 @@
 {
     "prettier": {
 	"tabWidth": 4
+    },
+    "languageserver": {
+	"intelephense": {
+	    "command": "intelephense",
+	    "args": ["--stdio"],
+	    "filetypes": ["php"],
+	    "initializationOptions": {
+		"storagePath": "/tmp/intelephense"
+	    }
+	}
     }
 }

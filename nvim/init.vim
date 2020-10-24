@@ -14,6 +14,8 @@ let g:coc_global_extensions = [
   \ 'coc-tsserver'
   \ ]
 " Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 
 call plug#end()
 
@@ -180,6 +182,14 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 set shiftwidth=4
 
 " switch between tabs
-nnoremap <C-Tab> :bn<CR>
-nnoremap <C-S-Tab> :bp<CR>
+nnoremap <C-S-l> :bn<CR>
+nnoremap <C-S-h> :bp<CR>
+
+" save
 nnoremap <C-S-s> :w<CR>
+
+" Status bar
+set statusline="%f%m%r%h%w [%Y] [0x%02.2B]%< %F%=%4v,%4l %3p%% of %L"
+
+" Files
+nnoremap <C-S-f> :Files<CR>
