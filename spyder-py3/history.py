@@ -1,12 +1,3 @@
-y_pred
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-y_pred.summary()
-regression.summary()
-regression.summary
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-regression_OLS.summary
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-regression_OLS.summary
 runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
 regression_OLS.summary
 %clear
@@ -108,3 +99,6 @@ dataset.keys()
 runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
 dataset.keys()
 runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
+
+## ---(Fri Oct 23 07:49:51 2020)---
+runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
