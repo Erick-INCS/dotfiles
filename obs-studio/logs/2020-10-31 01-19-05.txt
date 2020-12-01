@@ -1,0 +1,613 @@
+01:19:05.180: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01:19:05.181: CPU Speed: 1381.372MHz
+01:19:05.181: Physical Cores: 4, Logical Cores: 8
+01:19:05.181: Physical Memory: 10966MB Total, 5494MB Free
+01:19:05.181: Kernel Version: Linux 5.8.0-25-generic
+01:19:05.181: Distribution: "Ubuntu" "20.10"
+01:19:05.182: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+01:19:05.184: Portable mode: false
+01:19:05.342: OBS 26.0.2+dfsg1-1 (linux)
+01:19:05.343: ---------------------------------
+01:19:05.343: ---------------------------------
+01:19:05.343: audio settings reset:
+01:19:05.343: 	samples per sec: 48000
+01:19:05.343: 	speakers:        2
+01:19:05.354: ---------------------------------
+01:19:05.354: Initializing OpenGL...
+01:19:05.426: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+01:19:05.426: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+01:19:05.452: ---------------------------------
+01:19:05.452: video settings reset:
+01:19:05.452: 	base resolution:   1366x768
+01:19:05.452: 	output resolution: 1280x720
+01:19:05.452: 	downscale filter:  Bicubic
+01:19:05.452: 	fps:               30/1
+01:19:05.452: 	format:            NV12
+01:19:05.452: 	YUV mode:          709/Partial
+01:19:05.453: NV12 texture support not available
+01:19:05.458: Audio monitoring device:
+01:19:05.458: 	name: Default
+01:19:05.458: 	id: default
+01:19:05.458: ---------------------------------
+01:19:05.462: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:19:05.578: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:19:05.578: No blackmagic support
+01:19:05.697: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:19:05.697: 
+01:19:05.697: FFMPEG VAAPI supported
+01:19:05.728: VLC found, VLC video source enabled
+01:19:05.728: ---------------------------------
+01:19:05.728:   Loaded Modules:
+01:19:05.728:     vlc-video.so
+01:19:05.728:     text-freetype2.so
+01:19:05.728:     rtmp-services.so
+01:19:05.728:     obs-x264.so
+01:19:05.728:     obs-transitions.so
+01:19:05.728:     obs-outputs.so
+01:19:05.728:     obs-filters.so
+01:19:05.728:     obs-ffmpeg.so
+01:19:05.728:     linux-v4l2.so
+01:19:05.728:     linux-pulseaudio.so
+01:19:05.728:     linux-jack.so
+01:19:05.728:     linux-decklink.so
+01:19:05.728:     linux-capture.so
+01:19:05.728:     linux-alsa.so
+01:19:05.728:     image-source.so
+01:19:05.729:     frontend-tools.so
+01:19:05.729:     decklink-ouput-ui.so
+01:19:05.729: ---------------------------------
+01:19:05.729: ==== Startup complete ===============================================
+01:19:05.737: All scene data cleared
+01:19:05.737: ------------------------------------------------
+01:19:05.749: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:19:05.750: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:19:05.750: pulse-input: Started recording from 'bluez_sink.F4_BC_DA_1E_F1_25.a2dp_sink.monitor'
+01:19:05.750: [Loaded global audio device]: 'Desktop Audio'
+01:19:05.750: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:19:05.751: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:19:05.751: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:19:05.751: [Loaded global audio device]: 'Mic/Aux'
+01:19:05.809: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:19:05.810: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:19:05.810: pulse-input: Started recording from 'bluez_sink.F4_BC_DA_1E_F1_25.a2dp_sink.monitor'
+01:19:05.813: Switched to scene 'Scene'
+01:19:05.813: ------------------------------------------------
+01:19:05.813: Loaded scenes:
+01:19:05.813: - scene 'Scene':
+01:19:05.813:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+01:19:05.813:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+01:19:05.813: ------------------------------------------------
+01:19:06.358: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+01:19:06.358: 
+01:19:26.194: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:19:26.194: 	title: The Killers - Mr. Brightside
+01:19:26.194: 	class: spotify
+01:19:26.194: 	Bit depth: 24
+01:19:26.194: 	Found proper GLXFBConfig (in 368): yes
+01:19:26.194: 
+01:19:37.695: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:19:37.695: 	title: The Killers - Mr. Brightside
+01:19:37.695: 	class: spotify
+01:19:37.695: 	Bit depth: 24
+01:19:37.695: 	Found proper GLXFBConfig (in 368): yes
+01:19:37.695: 
+01:20:02.722: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+01:20:14.286: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+01:20:14.326: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:20:14.326: 	title: The Killers - Mr. Brightside
+01:20:14.326: 	class: spotify
+01:20:14.326: 	Bit depth: 24
+01:20:14.326: 	Found proper GLXFBConfig (in 368): yes
+01:20:14.326: 
+01:20:18.031: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:20:21.361: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:20:21.361: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:20:21.361: 	class: google-chrome
+01:20:21.361: 	Bit depth: 24
+01:20:21.361: 	Found proper GLXFBConfig (in 368): yes
+01:20:21.361: 
+01:20:40.424: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:20:45.559: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:20:45.559: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:20:45.559: 	class: obs
+01:20:45.559: 	Bit depth: 24
+01:20:45.559: 	Found proper GLXFBConfig (in 368): yes
+01:20:45.559: 
+01:20:47.758: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:21:22.990: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:21:27.094: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:27.094: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:21:27.094: 	class: obs
+01:21:27.094: 	Bit depth: 24
+01:21:27.094: 	Found proper GLXFBConfig (in 368): yes
+01:21:27.094: 
+01:21:29.026: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:21:31.460: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:31.460: 	title: The Killers - Mr. Brightside
+01:21:31.460: 	class: spotify
+01:21:31.460: 	Bit depth: 24
+01:21:31.460: 	Found proper GLXFBConfig (in 368): yes
+01:21:31.460: 
+01:21:33.425: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:21:36.490: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:21:41.593: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:41.593: 	title: The Killers - Mr. Brightside
+01:21:41.593: 	class: spotify
+01:21:41.593: 	Bit depth: 24
+01:21:41.593: 	Found proper GLXFBConfig (in 368): yes
+01:21:41.593: 
+01:21:43.328: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:43.328: 	title: The Killers - Mr. Brightside
+01:21:43.328: 	class: spotify
+01:21:43.328: 	Bit depth: 24
+01:21:43.328: 	Found proper GLXFBConfig (in 368): yes
+01:21:43.328: 
+01:21:48.592: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:22:13.083: ---------------------------------
+01:22:13.083: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:22:13.083: [x264 encoder: 'simple_h264_recording'] profile: high
+01:22:13.084: [x264 encoder: 'simple_h264_recording'] settings:
+01:22:13.084: 	rate_control: CRF
+01:22:13.084: 	bitrate:      0
+01:22:13.084: 	buffer size:  0
+01:22:13.084: 	crf:          21
+01:22:13.084: 	fps_num:      30
+01:22:13.084: 	fps_den:      1
+01:22:13.084: 	width:        1280
+01:22:13.084: 	height:       720
+01:22:13.084: 	keyint:       250
+01:22:13.084: 
+01:22:13.091: ---------------------------------
+01:22:13.092: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:22:13.092: 
+01:22:13.211: ==== Recording Start ===============================================
+01:22:13.211: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 01-22-13.mkv'...
+01:22:18.634: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:18.634: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:22:18.634: 	class: google-chrome
+01:22:18.634: 	Bit depth: 24
+01:22:18.634: 	Found proper GLXFBConfig (in 368): yes
+01:22:18.634: 
+01:22:24.394: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:24.394: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:22:24.394: 	class: google-chrome
+01:22:24.394: 	Bit depth: 24
+01:22:24.394: 	Found proper GLXFBConfig (in 368): yes
+01:22:24.394: 
+01:22:25.960: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:25.960: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:22:25.960: 	class: google-chrome
+01:22:25.960: 	Bit depth: 24
+01:22:25.960: 	Found proper GLXFBConfig (in 368): yes
+01:22:25.960: 
+01:22:28.428: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:28.428: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:22:28.428: 	class: google-chrome
+01:22:28.428: 	Bit depth: 24
+01:22:28.428: 	Found proper GLXFBConfig (in 368): yes
+01:22:28.428: 
+01:22:28.461: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:28.461: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:22:28.461: 	class: google-chrome
+01:22:28.461: 	Bit depth: 24
+01:22:28.461: 	Found proper GLXFBConfig (in 368): yes
+01:22:28.461: 
+01:36:46.766: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:46.766: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:36:46.766: 	class: google-chrome
+01:36:46.766: 	Bit depth: 24
+01:36:46.766: 	Found proper GLXFBConfig (in 368): yes
+01:36:46.766: 
+01:36:46.800: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:46.800: 	title: Creación de features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:36:46.800: 	class: google-chrome
+01:36:46.800: 	Bit depth: 24
+01:36:46.800: 	Found proper GLXFBConfig (in 368): yes
+01:36:46.800: 
+01:37:00.549: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 01-22-13.mkv' stopped
+01:37:00.549: Output 'simple_file_output': stopping
+01:37:00.549: Output 'simple_file_output': Total frames output: 26593
+01:37:00.549: Output 'simple_file_output': Total drawn frames: 26620
+01:37:00.549: ==== Recording Stop ================================================
+01:38:28.398: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:28.398: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:38:28.398: 	class: google-chrome
+01:38:28.398: 	Bit depth: 24
+01:38:28.398: 	Found proper GLXFBConfig (in 368): yes
+01:38:28.398: 
+01:38:40.832: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:40.832: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:38:40.832: 	class: google-chrome
+01:38:40.832: 	Bit depth: 24
+01:38:40.832: 	Found proper GLXFBConfig (in 368): yes
+01:38:40.832: 
+01:39:35.597: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:35.597: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:39:35.597: 	class: google-chrome
+01:39:35.597: 	Bit depth: 24
+01:39:35.597: 	Found proper GLXFBConfig (in 368): yes
+01:39:35.597: 
+01:39:43.192: ---------------------------------
+01:39:43.193: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:39:43.193: [x264 encoder: 'simple_h264_recording'] profile: high
+01:39:43.193: [x264 encoder: 'simple_h264_recording'] settings:
+01:39:43.193: 	rate_control: CRF
+01:39:43.193: 	bitrate:      0
+01:39:43.193: 	buffer size:  0
+01:39:43.193: 	crf:          21
+01:39:43.193: 	fps_num:      30
+01:39:43.193: 	fps_den:      1
+01:39:43.193: 	width:        1280
+01:39:43.193: 	height:       720
+01:39:43.193: 	keyint:       250
+01:39:43.193: 
+01:39:43.197: ---------------------------------
+01:39:43.197: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:39:43.197: 
+01:39:43.202: ==== Recording Start ===============================================
+01:39:43.202: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 01-39-43.mkv'...
+01:39:44.094: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:44.094: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:39:44.094: 	class: google-chrome
+01:39:44.094: 	Bit depth: 24
+01:39:44.094: 	Found proper GLXFBConfig (in 368): yes
+01:39:44.094: 
+01:39:46.066: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:46.066: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:39:46.066: 	class: google-chrome
+01:39:46.066: 	Bit depth: 24
+01:39:46.066: 	Found proper GLXFBConfig (in 368): yes
+01:39:46.066: 
+01:39:46.093: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:46.093: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:39:46.093: 	class: google-chrome
+01:39:46.093: 	Bit depth: 24
+01:39:46.093: 	Found proper GLXFBConfig (in 368): yes
+01:39:46.093: 
+01:39:47.894: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:47.894: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:39:47.894: 	class: google-chrome
+01:39:47.894: 	Bit depth: 24
+01:39:47.894: 	Found proper GLXFBConfig (in 368): yes
+01:39:47.894: 
+01:46:30.595: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:46:30.595: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+01:46:30.595: 	class: google-chrome
+01:46:30.595: 	Bit depth: 24
+01:46:30.595: 	Found proper GLXFBConfig (in 368): yes
+01:46:30.595: 
+01:46:39.536: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 01-39-43.mkv' stopped
+01:46:39.536: Output 'simple_file_output': stopping
+01:46:39.536: Output 'simple_file_output': Total frames output: 12463
+01:46:39.536: Output 'simple_file_output': Total drawn frames: 12490
+01:46:39.537: ==== Recording Stop ================================================
+02:02:38.434: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:02:38.434: 	title: Creando más features en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:02:38.434: 	class: google-chrome
+02:02:38.434: 	Bit depth: 24
+02:02:38.434: 	Found proper GLXFBConfig (in 368): yes
+02:02:38.434: 
+02:03:15.784: ---------------------------------
+02:03:15.784: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:03:15.784: [x264 encoder: 'simple_h264_recording'] profile: high
+02:03:15.784: [x264 encoder: 'simple_h264_recording'] settings:
+02:03:15.784: 	rate_control: CRF
+02:03:15.784: 	bitrate:      0
+02:03:15.784: 	buffer size:  0
+02:03:15.784: 	crf:          21
+02:03:15.784: 	fps_num:      30
+02:03:15.784: 	fps_den:      1
+02:03:15.784: 	width:        1280
+02:03:15.784: 	height:       720
+02:03:15.784: 	keyint:       250
+02:03:15.784: 
+02:03:15.788: ---------------------------------
+02:03:15.788: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:03:15.788: 
+02:03:15.887: ==== Recording Start ===============================================
+02:03:15.887: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-03-15.mkv'...
+02:03:16.535: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:03:16.535: 	title: Selección de features y la maldición de la dimensionalidad en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:03:16.535: 	class: google-chrome
+02:03:16.535: 	Bit depth: 24
+02:03:16.535: 	Found proper GLXFBConfig (in 368): yes
+02:03:16.535: 
+02:03:19.603: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:03:19.603: 	title: Selección de features y la maldición de la dimensionalidad en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:03:19.603: 	class: google-chrome
+02:03:19.603: 	Bit depth: 24
+02:03:19.603: 	Found proper GLXFBConfig (in 368): yes
+02:03:19.603: 
+02:08:33.572: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:08:33.572: 	title: Selección de features y la maldición de la dimensionalidad en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:08:33.572: 	class: google-chrome
+02:08:33.572: 	Bit depth: 24
+02:08:33.572: 	Found proper GLXFBConfig (in 368): yes
+02:08:33.572: 
+02:08:33.601: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:08:33.601: 	title: Selección de features y la maldición de la dimensionalidad en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:08:33.601: 	class: google-chrome
+02:08:33.601: 	Bit depth: 24
+02:08:33.601: 	Found proper GLXFBConfig (in 368): yes
+02:08:33.601: 
+02:08:38.876: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:08:38.876: 	title: Cross Validation en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:08:38.876: 	class: google-chrome
+02:08:38.876: 	Bit depth: 24
+02:08:38.876: 	Found proper GLXFBConfig (in 368): yes
+02:08:38.876: 
+02:08:39.147: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-03-15.mkv' stopped
+02:08:39.147: Output 'simple_file_output': stopping
+02:08:39.147: Output 'simple_file_output': Total frames output: 9671
+02:08:39.147: Output 'simple_file_output': Total drawn frames: 9698
+02:08:39.148: ==== Recording Stop ================================================
+02:09:50.977: ---------------------------------
+02:09:50.977: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:09:50.977: [x264 encoder: 'simple_h264_recording'] profile: high
+02:09:50.977: [x264 encoder: 'simple_h264_recording'] settings:
+02:09:50.977: 	rate_control: CRF
+02:09:50.977: 	bitrate:      0
+02:09:50.977: 	buffer size:  0
+02:09:50.977: 	crf:          21
+02:09:50.977: 	fps_num:      30
+02:09:50.977: 	fps_den:      1
+02:09:50.977: 	width:        1280
+02:09:50.977: 	height:       720
+02:09:50.977: 	keyint:       250
+02:09:50.977: 
+02:09:50.982: ---------------------------------
+02:09:50.982: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:09:50.982: 
+02:09:51.017: ==== Recording Start ===============================================
+02:09:51.017: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-09-50.mkv'...
+02:09:51.871: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:51.871: 	title: Selección de features y la maldición de la dimensionalidad en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:09:51.871: 	class: google-chrome
+02:09:51.871: 	Bit depth: 24
+02:09:51.871: 	Found proper GLXFBConfig (in 368): yes
+02:09:51.871: 
+02:09:56.136: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:56.136: 	title: Cross Validation en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:09:56.136: 	class: google-chrome
+02:09:56.136: 	Bit depth: 24
+02:09:56.136: 	Found proper GLXFBConfig (in 368): yes
+02:09:56.136: 
+02:18:25.646: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-09-50.mkv' stopped
+02:18:25.646: Output 'simple_file_output': stopping
+02:18:25.646: Output 'simple_file_output': Total frames output: 15412
+02:18:25.646: Output 'simple_file_output': Total drawn frames: 15439
+02:18:25.647: ==== Recording Stop ================================================
+02:18:26.675: ---------------------------------
+02:18:26.675: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:18:26.675: [x264 encoder: 'simple_h264_recording'] profile: high
+02:18:26.675: [x264 encoder: 'simple_h264_recording'] settings:
+02:18:26.675: 	rate_control: CRF
+02:18:26.675: 	bitrate:      0
+02:18:26.675: 	buffer size:  0
+02:18:26.675: 	crf:          21
+02:18:26.675: 	fps_num:      30
+02:18:26.675: 	fps_den:      1
+02:18:26.675: 	width:        1280
+02:18:26.675: 	height:       720
+02:18:26.675: 	keyint:       250
+02:18:26.675: 
+02:18:26.680: ---------------------------------
+02:18:26.681: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:18:26.681: 
+02:18:26.739: ==== Recording Start ===============================================
+02:18:26.739: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-18-26.mkv'...
+02:18:29.671: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:29.671: 	title: Selección de modelos en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:18:29.671: 	class: google-chrome
+02:18:29.671: 	Bit depth: 24
+02:18:29.671: 	Found proper GLXFBConfig (in 368): yes
+02:18:29.671: 
+02:18:29.702: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:29.702: 	title: Selección de modelos en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:18:29.702: 	class: google-chrome
+02:18:29.702: 	Bit depth: 24
+02:18:29.702: 	Found proper GLXFBConfig (in 368): yes
+02:18:29.702: 
+02:18:32.236: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:32.236: 	title: Selección de modelos en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:18:32.236: 	class: google-chrome
+02:18:32.236: 	Bit depth: 24
+02:18:32.236: 	Found proper GLXFBConfig (in 368): yes
+02:18:32.236: 
+02:30:12.472: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:30:12.472: 	title: Selección de modelos en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:30:12.472: 	class: google-chrome
+02:30:12.472: 	Bit depth: 24
+02:30:12.472: 	Found proper GLXFBConfig (in 368): yes
+02:30:12.472: 
+02:30:12.502: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:30:12.502: 	title: Selección de modelos en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:30:12.502: 	class: google-chrome
+02:30:12.502: 	Bit depth: 24
+02:30:12.502: 	Found proper GLXFBConfig (in 368): yes
+02:30:12.502: 
+02:30:17.756: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-18-26.mkv' stopped
+02:30:17.756: Output 'simple_file_output': stopping
+02:30:17.756: Output 'simple_file_output': Total frames output: 21303
+02:30:17.756: Output 'simple_file_output': Total drawn frames: 21330
+02:30:17.757: ==== Recording Stop ================================================
+02:30:18.943: ---------------------------------
+02:30:18.943: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:30:18.943: [x264 encoder: 'simple_h264_recording'] profile: high
+02:30:18.943: [x264 encoder: 'simple_h264_recording'] settings:
+02:30:18.943: 	rate_control: CRF
+02:30:18.943: 	bitrate:      0
+02:30:18.943: 	buffer size:  0
+02:30:18.943: 	crf:          21
+02:30:18.943: 	fps_num:      30
+02:30:18.943: 	fps_den:      1
+02:30:18.943: 	width:        1280
+02:30:18.943: 	height:       720
+02:30:18.943: 	keyint:       250
+02:30:18.943: 
+02:30:18.946: ---------------------------------
+02:30:18.947: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:30:18.947: 
+02:30:18.950: ==== Recording Start ===============================================
+02:30:18.950: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-30-18.mkv'...
+02:30:20.577: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:30:20.577: 	title: Curvas de aprendizaje en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:30:20.577: 	class: google-chrome
+02:30:20.577: 	Bit depth: 24
+02:30:20.577: 	Found proper GLXFBConfig (in 368): yes
+02:30:20.577: 
+02:30:22.775: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:30:22.775: 	title: Curvas de aprendizaje en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:30:22.775: 	class: google-chrome
+02:30:22.775: 	Bit depth: 24
+02:30:22.775: 	Found proper GLXFBConfig (in 368): yes
+02:30:22.775: 
+02:30:22.800: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:30:22.800: 	title: Curvas de aprendizaje en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:30:22.800: 	class: google-chrome
+02:30:22.800: 	Bit depth: 24
+02:30:22.800: 	Found proper GLXFBConfig (in 368): yes
+02:30:22.800: 
+02:37:08.144: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-30-18.mkv' stopped
+02:37:08.144: Output 'simple_file_output': stopping
+02:37:08.144: Output 'simple_file_output': Total frames output: 12249
+02:37:08.144: Output 'simple_file_output': Total drawn frames: 12276
+02:37:08.145: ==== Recording Stop ================================================
+02:37:08.954: ---------------------------------
+02:37:08.954: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:37:08.954: [x264 encoder: 'simple_h264_recording'] profile: high
+02:37:08.954: [x264 encoder: 'simple_h264_recording'] settings:
+02:37:08.954: 	rate_control: CRF
+02:37:08.954: 	bitrate:      0
+02:37:08.954: 	buffer size:  0
+02:37:08.954: 	crf:          21
+02:37:08.954: 	fps_num:      30
+02:37:08.954: 	fps_den:      1
+02:37:08.954: 	width:        1280
+02:37:08.954: 	height:       720
+02:37:08.954: 	keyint:       250
+02:37:08.954: 
+02:37:08.958: ---------------------------------
+02:37:08.959: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:37:08.959: 
+02:37:09.051: ==== Recording Start ===============================================
+02:37:09.051: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-37-08.mkv'...
+02:37:10.336: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:37:10.336: 	title: Introducción a Ensembles y Árboles de Decisión en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:37:10.336: 	class: google-chrome
+02:37:10.336: 	Bit depth: 24
+02:37:10.336: 	Found proper GLXFBConfig (in 368): yes
+02:37:10.336: 
+02:37:13.801: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:37:13.801: 	title: Introducción a Ensembles y Árboles de Decisión en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:37:13.801: 	class: google-chrome
+02:37:13.801: 	Bit depth: 24
+02:37:13.801: 	Found proper GLXFBConfig (in 368): yes
+02:37:13.801: 
+02:44:41.516: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-37-08.mkv' stopped
+02:44:41.516: Output 'simple_file_output': stopping
+02:44:41.516: Output 'simple_file_output': Total frames output: 13547
+02:44:41.516: Output 'simple_file_output': Total drawn frames: 13574
+02:44:41.516: ==== Recording Stop ================================================
+02:44:42.428: ---------------------------------
+02:44:42.428: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:44:42.428: [x264 encoder: 'simple_h264_recording'] profile: high
+02:44:42.428: [x264 encoder: 'simple_h264_recording'] settings:
+02:44:42.428: 	rate_control: CRF
+02:44:42.428: 	bitrate:      0
+02:44:42.428: 	buffer size:  0
+02:44:42.428: 	crf:          21
+02:44:42.428: 	fps_num:      30
+02:44:42.428: 	fps_den:      1
+02:44:42.428: 	width:        1280
+02:44:42.428: 	height:       720
+02:44:42.428: 	keyint:       250
+02:44:42.428: 
+02:44:42.433: ---------------------------------
+02:44:42.433: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:44:42.433: 
+02:44:42.439: ==== Recording Start ===============================================
+02:44:42.439: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-44-42.mkv'...
+02:44:44.741: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:44:44.741: 	title: Introducción a Ensembles y Árboles de Decisión en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:44:44.741: 	class: google-chrome
+02:44:44.741: 	Bit depth: 24
+02:44:44.741: 	Found proper GLXFBConfig (in 368): yes
+02:44:44.741: 
+02:44:45.683: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:44:45.683: 	title: Introducción a Ensembles y Árboles de Decisión en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:44:45.683: 	class: google-chrome
+02:44:45.683: 	Bit depth: 24
+02:44:45.683: 	Found proper GLXFBConfig (in 368): yes
+02:44:45.683: 
+02:44:45.733: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:44:45.733: 	title: Introducción a Ensembles y Árboles de Decisión en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:44:45.733: 	class: google-chrome
+02:44:45.733: 	Bit depth: 24
+02:44:45.733: 	Found proper GLXFBConfig (in 368): yes
+02:44:45.733: 
+02:44:48.704: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:44:48.704: 	title: Random Forest y Gradient Boosting Trees en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:44:48.704: 	class: google-chrome
+02:44:48.704: 	Bit depth: 24
+02:44:48.704: 	Found proper GLXFBConfig (in 368): yes
+02:44:48.704: 
+02:53:11.882: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-44-42.mkv' stopped
+02:53:11.883: Output 'simple_file_output': stopping
+02:53:11.883: Output 'simple_file_output': Total frames output: 15256
+02:53:11.883: Output 'simple_file_output': Total drawn frames: 15283
+02:53:11.883: ==== Recording Stop ================================================
+02:53:12.623: ---------------------------------
+02:53:12.623: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:53:12.623: [x264 encoder: 'simple_h264_recording'] profile: high
+02:53:12.623: [x264 encoder: 'simple_h264_recording'] settings:
+02:53:12.623: 	rate_control: CRF
+02:53:12.623: 	bitrate:      0
+02:53:12.623: 	buffer size:  0
+02:53:12.623: 	crf:          21
+02:53:12.623: 	fps_num:      30
+02:53:12.623: 	fps_den:      1
+02:53:12.623: 	width:        1280
+02:53:12.623: 	height:       720
+02:53:12.623: 	keyint:       250
+02:53:12.623: 
+02:53:12.627: ---------------------------------
+02:53:12.628: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:53:12.628: 
+02:53:12.634: ==== Recording Start ===============================================
+02:53:12.634: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-31 02-53-12.mkv'...
+02:53:13.536: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:53:13.536: 	title: Random Forest y Gradient Boosting Trees en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:53:13.536: 	class: google-chrome
+02:53:13.536: 	Bit depth: 24
+02:53:13.536: 	Found proper GLXFBConfig (in 368): yes
+02:53:13.536: 
+02:53:15.202: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:53:15.202: 	title: Random Forest y Gradient Boosting Trees en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:53:15.202: 	class: google-chrome
+02:53:15.202: 	Bit depth: 24
+02:53:15.202: 	Found proper GLXFBConfig (in 368): yes
+02:53:15.202: 
+02:53:15.272: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:53:15.272: 	title: Random Forest y Gradient Boosting Trees en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:53:15.272: 	class: google-chrome
+02:53:15.272: 	Bit depth: 24
+02:53:15.272: 	Found proper GLXFBConfig (in 368): yes
+02:53:15.272: 
+02:53:20.736: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:53:20.736: 	title: Optimización de hiperparámetros en Curso de Machine Learning Aplicado con Python - Google Chrome
+02:53:20.736: 	class: google-chrome
+02:53:20.736: 	Bit depth: 24
+02:53:20.736: 	Found proper GLXFBConfig (in 368): yes
+02:53:20.736: 
+03:07:05.268: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-31 02-53-12.mkv' stopped
+03:07:05.268: Output 'simple_file_output': stopping
+03:07:05.268: Output 'simple_file_output': Total frames output: 24951
+03:07:05.269: Output 'simple_file_output': Total drawn frames: 24979
+03:07:05.269: ==== Recording Stop ================================================
+03:07:08.736: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:07:08.736: 	title: Conclusiones del curso en Curso de Machine Learning Aplicado con Python - Google Chrome
+03:07:08.736: 	class: google-chrome
+03:07:08.736: 	Bit depth: 24
+03:07:08.736: 	Found proper GLXFBConfig (in 368): yes
+03:07:08.736: 

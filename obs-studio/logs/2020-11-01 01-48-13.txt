@@ -1,0 +1,109 @@
+01:48:13.234: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01:48:13.234: CPU Speed: 1416.685MHz
+01:48:13.235: Physical Cores: 4, Logical Cores: 8
+01:48:13.235: Physical Memory: 10966MB Total, 6371MB Free
+01:48:13.235: Kernel Version: Linux 5.8.0-25-generic
+01:48:13.235: Distribution: "Ubuntu" "20.10"
+01:48:13.235: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+01:48:13.237: Portable mode: false
+01:48:13.343: OBS 26.0.2+dfsg1-1 (linux)
+01:48:13.343: ---------------------------------
+01:48:13.343: ---------------------------------
+01:48:13.343: audio settings reset:
+01:48:13.343: 	samples per sec: 48000
+01:48:13.343: 	speakers:        2
+01:48:13.350: ---------------------------------
+01:48:13.350: Initializing OpenGL...
+01:48:13.444: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+01:48:13.444: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+01:48:13.468: ---------------------------------
+01:48:13.468: video settings reset:
+01:48:13.468: 	base resolution:   1366x768
+01:48:13.468: 	output resolution: 1280x720
+01:48:13.468: 	downscale filter:  Bicubic
+01:48:13.468: 	fps:               30/1
+01:48:13.468: 	format:            NV12
+01:48:13.468: 	YUV mode:          709/Partial
+01:48:13.468: NV12 texture support not available
+01:48:13.472: Audio monitoring device:
+01:48:13.472: 	name: Default
+01:48:13.472: 	id: default
+01:48:13.473: ---------------------------------
+01:48:13.475: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:48:13.552: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:48:13.552: No blackmagic support
+01:48:13.586: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:48:13.586: 
+01:48:13.586: FFMPEG VAAPI supported
+01:48:13.599: VLC found, VLC video source enabled
+01:48:13.599: ---------------------------------
+01:48:13.599:   Loaded Modules:
+01:48:13.599:     vlc-video.so
+01:48:13.599:     text-freetype2.so
+01:48:13.599:     rtmp-services.so
+01:48:13.599:     obs-x264.so
+01:48:13.599:     obs-transitions.so
+01:48:13.599:     obs-outputs.so
+01:48:13.599:     obs-filters.so
+01:48:13.599:     obs-ffmpeg.so
+01:48:13.599:     linux-v4l2.so
+01:48:13.599:     linux-pulseaudio.so
+01:48:13.599:     linux-jack.so
+01:48:13.599:     linux-decklink.so
+01:48:13.599:     linux-capture.so
+01:48:13.599:     linux-alsa.so
+01:48:13.599:     image-source.so
+01:48:13.599:     frontend-tools.so
+01:48:13.599:     decklink-ouput-ui.so
+01:48:13.599: ---------------------------------
+01:48:13.599: ==== Startup complete ===============================================
+01:48:13.603: All scene data cleared
+01:48:13.603: ------------------------------------------------
+01:48:13.611: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:48:13.612: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:48:13.612: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:48:13.612: [Loaded global audio device]: 'Desktop Audio'
+01:48:13.612: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:48:13.613: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:48:13.613: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:48:13.613: [Loaded global audio device]: 'Mic/Aux'
+01:48:13.614: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:48:13.614: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:48:13.615: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:48:13.643: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:48:13.643: 	title: New Tab - Brave
+01:48:13.643: 	class: brave-browser
+01:48:13.643: 	Bit depth: 24
+01:48:13.643: 	Found proper GLXFBConfig (in 368): yes
+01:48:13.643: 
+01:48:13.643: Switched to scene 'Scene'
+01:48:13.644: ------------------------------------------------
+01:48:13.644: Loaded scenes:
+01:48:13.644: - scene 'Scene':
+01:48:13.644:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+01:48:13.644:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+01:48:13.644: ------------------------------------------------
+01:48:32.512: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:48:32.512: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:48:32.512: 	class: obs
+01:48:32.512: 	Bit depth: 24
+01:48:32.512: 	Found proper GLXFBConfig (in 368): yes
+01:48:32.512: 
+01:48:34.545: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:48:34.545: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:48:34.545: 	class: obs
+01:48:34.545: 	Bit depth: 24
+01:48:34.545: 	Found proper GLXFBConfig (in 368): yes
+01:48:34.545: 
+01:48:36.577: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:48:36.577: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:48:36.577: 	class: obs
+01:48:36.577: 	Bit depth: 24
+01:48:36.577: 	Found proper GLXFBConfig (in 368): yes
+01:48:36.577: 
+01:48:42.742: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:48:42.742: 	title: New Tab - Brave
+01:48:42.742: 	class: brave-browser
+01:48:42.742: 	Bit depth: 24
+01:48:42.742: 	Found proper GLXFBConfig (in 368): yes
+01:48:42.742: 

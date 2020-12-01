@@ -1,0 +1,1000 @@
+umount
+mount
+mount --help
+fdisk -l /dev/sdb
+sudo fdisk -l /dev/sdb
+ls
+ls HDD
+mount -u E5E7B582-EF6C-49DD-82B9-F5A63FC4AD6A HDD
+mount -h
+mount -U E5E7B582-EF6C-49DD-82B9-F5A63FC4AD6A HDD
+sudo mount -U E5E7B582-EF6C-49DD-82B9-F5A63FC4AD6A HDD
+sudo fdisk -l /dev/sdb
+sudo blkid
+sudo fdisk -l /dev/sda
+sudo mount -U A602651C0264F32B HDD
+ls HDD/
+nvim $I3CONF
+mount -U A602651C0264F32B HDD
+sudo mount -U A602651C0264F32B HDD
+exit
+ranger
+ls
+go build appsMenu.go 
+ls
+go build --help
+go build appsMenu.go -o apps
+go build appsMenu.go -o apps.sh
+go build -i appsMenu.go -o apps.sh
+go build appsMenu.go
+ls
+nautilus .
+clear
+sudo clear
+go help build
+go install
+go
+ls
+go build
+ls
+cd
+ls
+cd Documents/
+cd Code
+cd
+cd Code/goTest
+ls
+cat goTest 
+cd Code/
+ls
+cd goTest/
+ls
+goTest
+./goTest
+rm goTest 
+cat history | grep goTest
+history | grep goTest
+ls
+cat hello.go 
+go build hello.go 
+ls
+rm hello
+ls
+cd Code/Go/
+ls
+cat appsMenu.go 
+rm appsMenu.go 
+touch appsMenu.go
+code appsMenu.go 
+ls
+cd..
+ls
+cd ..
+ls
+cd Go/
+ls
+cat ../goTest/hello.go 
+clear
+cls
+go build appsMenu.go 
+ls
+go build appsMenu.go 
+ls
+go build appsMenu.go apps
+go
+go build
+ls
+go build
+ls
+./Go 
+cat Go 
+clear
+ls
+rm Go
+mkdir appsMenu
+mv * appsMenu
+ls
+pwd
+ls
+cd appsMenu/
+ls
+go build
+ls
+./appsMenu 
+go build
+ls
+rm appsMenu
+ls
+go build
+ls
+./appsMenu 
+code appsMenu.go 
+go build
+ls
+touch trash.txt
+go build
+.
+./appsMenu 
+ls
+go build
+./appsMenu 
+history | grep cd
+history | grep usr
+history | grep local
+history | grep cd /
+history | grep "cd /"
+ls /usr/local/
+ls /usr/local/share/
+ls /usr/local/share/applications/
+ls ~/.local/share/applications
+ls /usr/share/applications
+/var/lib/snapd/desktop/applications/
+ls /var/lib/snapd/desktop/applications/
+poweroff 
+ranger
+nvim $I3CONF
+cd HDD/
+pwd
+fstab
+history
+sudo blkid
+exit
+cat /etc/fstab
+cp /etc/fstab /etc/fstab-old
+cp /etc/fstab /etc/fstab_old
+sudo cp /etc/fstab /etc/fstab_old
+ls /etc/
+nvim /etc/fstab
+sudo nvim /etc/fstab
+reboot
+neofetch
+screenfetch
+apt-cache search neofetch
+cd Code/
+ls
+go get github.com/google/goterm/term
+ls
+rn Go go
+mv -r Go go
+mv Go go
+ls
+cd go
+ls
+ca appsMenu
+cd ..
+ls
+cd go
+ls
+mkdir appsMenu
+nautilus
+nautilus .
+ls
+cd appsMenu/
+ls
+cd ..
+ls
+mkdir gotermTest
+cd gotermTest/
+nvim main.go
+go build
+./gotermTest 
+nvim main.go 
+code main.go 
+ls
+cd Code/
+cd go
+cd gotermTest/
+ls
+go build
+./gotermTest 
+pwd
+go build
+./gotermTest 
+go build
+./gotermTest 
+go build
+./gotermTest 
+go build
+./gotermTest 
+go build
+./gotermTest 
+go build
+./gotermTest 
+go build
+cd Code/g
+cd Code/go
+ls
+cd gotermTest/
+go build
+./gotermTest 
+cd Code/go/gotermTest/
+go build
+./gotermTest 
+cd Code/go/gotermTest/
+go build
+./gotermTest 
+cd Code/go/gotermTest/
+go build
+./gotermTest 
+cd Code/go/gotermTest/
+cd ..
+cd gocui/
+ls
+go build
+./gocui 
+go build
+mv example.go example.txt
+go build
+./gocui 
+go build
+ls
+rm gocui 
+ls
+go build
+ls
+go build
+ks
+ls
+go build
+ls
+go build
+./gocui 
+go build
+./gocui 
+cd Code/go/gocui/
+ls
+go build
+./gocui 
+ranger
+cd Code/go/gocui/
+ls
+./gocui 
+ls ~/.local/share/applications
+cd ~/.local/share/applications
+pwd
+cd
+cd Code/go/gocui/
+ls
+/gocui 
+ls
+./gocui 
+go build & ./gocui 
+go build | ./gocui 
+go build |> ./gocui 
+go build | ./gocui 
+./gocui | go build
+./gocui < go build
+go build| ./gocui 
+go build| go build |./gocui 
+go build| ./gocui 
+ls
+ñls
+lllls
+ls
+./gotermTest 
+go get github.com/jroimartin/gocui
+cd ..
+ls
+mkdir gocui
+cd gocui/
+ls
+go doc github.com/jroimartin/gocui
+./gocui 
+history
+go build ; ./gocui 
+fdf
+pwd
+exit
+cd /home/incspn/Code/go/gotermTest
+./gotermTest 
+exit
+cd /home/incspn/Code/go/gocui
+go build ; ./gocui 
+cd ~/.local/share/applications
+pwd
+cd /home/incspn/.local/share/applications
+ls
+cat kite-copilot.desktop 
+cat kite.desktop 
+cat *
+cat * | nvim
+ls
+cat chrome-aapocclcgogkmnckokdopfmhonfmgoek-Default.desktop 
+history
+cd Code/go/gocui/
+go build
+cd Code/go/gocui/
+ls
+pwd
+go build; ./gocui 
+go build; ./gocui
+realpath ~/.local/share/applications
+clear;go build; ./gocui
+clear
+cls
+clear
+sudo clear
+go build; ./gocui
+go doc regexp/syntax
+ls /home/incspn/.local/share/applications/ | grep calendar
+ls  | grep Calendar
+ls /usr/local/share/applications/ | grep calendar
+cd /usr/local/share/applications
+ls
+cd /usr/local/share/applications
+cd /usr/share/applications/
+ls
+cat org.gonome.Calendar
+cat org.gnome.Calendar.desktop
+sudo su
+cd /usr/share/applications/
+cat org.gnome.Calendar.desktop
+python3
+julia
+echo 12
+echo 12 | xclip clipboard
+echo 12 | xclip clip
+err := cmd.Run()
+echo 12 | xclip save
+xclip --ehlp
+xclip -h
+echo 12 | xclip -o clip
+err := cmd.Run()
+echo 12 | xclip -o clipboard
+xclip -h
+xclip -target clip
+echo 12 | xclip -target clip
+mmand("echo", files[selected].cmd, "|", "xclip", "-selection", "c")
+totem %U
+totem -U
+totem -h
+totem -h | grep U
+go doc regexp/syntax
+go doc regexp/syntax | more
+go doc regexp/syntax
+xclip -h
+echo 1 | xclip -target
+xclip -target -h
+xclip -target -o clip
+echo 1 | xclip -target clip
+echo 1 | xclip -o clip
+echo 1 | xclip -o clip -v
+echo 1 | xclip -v
+echo 1 | xclip -v -o 
+echo 1 | xclip -v -o clip
+echo 1 | xclip -v -target clip
+echo 1 | xclip -target clipboard
+echo 1 | xclip
+echo 1 | xclip -selection c
+1
+echo 1 | xclip -selection
+echo 1 | xclip -selection clip
+1
+echo 13 | xclip -selection clip
+13
+echo 13 | xclip -selection 1
+13
+echo 13 | xclip -selection 1
+echo 16 | xclip -selection 1
+13
+echo 16 | xclip -selection clip
+echo 16 | xclip -selection c
+xclip -selection c
+16
+menu
+./menu
+ln -s ./menu /usr/bin
+sudo ln -s ./menu /usr/bin
+cd
+menu
+ext
+exit
+cd Code/go/gocui/
+ls
+go build;./gocui 
+go build
+go build;./gocui 
+log.Printf(fmt.Sprintln(arr))
+go build;./gocui 
+./gocui 
+go build;./gocui 
+yelp
+ls
+menu
+where id gnome-screenshot 
+wheresid gnome-screenshot 
+whereis gnome-screenshot 
+ln
+ln -h
+ln --help
+ls
+rm gocui menu
+ls
+menu
+ls
+go build
+rn gocui menu
+rename gocui menu
+cp gocui menu
+ls
+ln --help
+ln -s /usr/bin/ menu
+ln -s /usr/bin/ -t menu
+ln -s /usr/bin/ ./menu
+ls /usr/bin | grep menu
+ls  menu /usr/bin
+ls
+ln -s  menu /usr/bin
+sudo ln -s menu /usr/bin
+cd
+menu
+ls /usr/bin | grep menu
+menu
+/usr/bin menu
+/usr/bin/menu
+rm /usr/bin/menu
+sudo rm /usr/bin/menu
+ls /usr/bin/ | grep menu
+cd Code/
+studio
+where is datagrip
+whereis datagrip
+ranger
+menu
+ls /usr/bin/menu
+ls /usr/bin/
+chmod 777 /usr/bin/menu
+sudo chmod 777 /usr/bin/menu
+rm /usr/bin/menu
+sudo rm /usr/bin/menu
+ls
+cd Code/
+ranger
+ls
+history
+realpath ./menu
+sudo ln -s /home/incspn/Code/go/gocui/menu /usr/bin
+cd
+menu
+env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/rider_rider.desktop /snap/bin/rider
+bash -c "echo 12"
+bash -c "echo 12;bash"
+bash --rcfile <(echo '. ~/.bashrc; ls')
+exit
+bash --rcfile <(echo '. ~/.bashrc; ls')
+exit
+bash -c 'ls'
+exit
+gnome-terminal
+bash -c 'ls;bash'
+bash -c 'bash;ls'
+bash -c 'ls;ls'
+gnome-terminal
+ls
+nvim $I3CONF
+urxvt
+urxvt -e "ls"
+urxvt --help
+urxvt -h
+urxvt -e "ls &"
+fg
+urxvt -e "ls"
+urxvt -e "ranger"
+nvim $I3CONF
+menu
+gnome-power-statistics
+menu
+urxvt
+menu
+shotwell
+menu
+transmission-gtk
+menu
+ibus-setup
+menu
+gnome-screenshot --interactive
+gnome-screenshot
+menu
+yelp
+go build
+./execTest 
+go build;./execTest 
+ls
+go build;./execTest 
+yelp &
+fg
+cd..
+cd ..
+ls
+cd gocui/
+ls
+go build; ./gocui 
+vm ./gocui menu
+mv ./gocui menu
+ls
+ls
+gnome-terminal
+gnone-terminal
+gnome-terminal -e python
+exit
+menu
+bash julia
+bash -e julia
+bash -e "julia;bash"
+bash -e "ls;bash"
+urxvt -e julia
+menu
+gnome-terminal -e julia
+clear
+sudo clear
+python
+nvim $I3CONF 
+fg
+nvim $I3CONF 
+nvim $I3CONF
+clear
+exit
+exit
+pwd
+cd HDD/
+pwd
+pwd | xclip -record c
+pwd | xclip -register c
+xclip -h
+pwd
+top
+nvim $I3CONF 
+exit
+apt-get install 
+sudo apt-get install ueberzugsudo
+sudo pip3 install ueberzug
+ls ~/.config/ranger/
+whereid ranger
+whereis ranger
+exit
+menu
+exit
+apt-cache search giomp
+apt-cache search gimp
+sudo apt-get install gimp
+menu
+gimp
+history
+cd Code/
+ls
+nvim ba.ino
+wherers brave
+whereis brave
+whereis google-chrome
+pwd
+ln -S 
+ln -S --h
+ln -S --help
+ln -S /usr/bin /home/incspn/HDD/Software/android-studio/bin/studio
+cd
+ln -S /usr/bin /home/incspn/HDD/Software/android-studio/bin/studio
+ln -S /home/incspn/HDD/Software/android-studio/bin/studio /usr/bin
+ln -s /usr/bin /home/incspn/HDD/Software/android-studio/bin/studio
+studio
+ln -S /home/incspn/HDD/Software/android-studio/bin/studio /usr/bin
+ln -s /home/incspn/HDD/Software/android-studio/bin/studio /usr/bin
+sudo ln -s /home/incspn/HDD/Software/android-studio/bin/studio /usr/bin
+nvim $I3CONF 
+exit
+menu
+cd Code
+ls
+cd go
+ls
+rn gocui appsMenu
+rename gocui appsMenu
+rndir gocui appsMenu
+mv gocui appsMenu
+menu
+cd
+menu
+ls
+cd HDD/Code/
+ls
+exit
+ls /usr/bin/menu
+rm /usr/bin/menu
+sudo rm /usr/bin/menu
+pwd
+ls
+cd Code/
+ls
+mv * ../HDD/Code/
+sudo mv * ../HDD/Code/
+sudo mv -r * ../HDD/Code/
+ls
+mx Proyecto\ Arteeth/ ../HDD/Code/
+mv Proyecto\ Arteeth/ ../HDD/Code/
+mv -r  Proyecto\ Arteeth/ ../HDD/Code/
+mv --recursive Proyecto\ Arteeth/ ../HDD/Code/
+rm Proyecto\ Arteeth/
+rm -r Proyecto\ Arteeth/
+ls
+sudo rm -r Proyecto\ Arteeth/
+ls
+cd
+rm Code/
+rm -r Code/
+ls
+ran
+ranger 
+cd Go
+mv -r * ../go
+mv * ../go
+ls
+cd ..
+rm -r go
+ls
+cd Go
+ls
+cd ..
+history | grep 1 1
+history | grep 1
+history | grep mouse
+history | grep S
+xinput
+xinput 12
+xinput list 12
+xinput --set-prop 12 "Synaptics Two-Finger Scrolling" 1 
+xinput list 11
+xinput list 12
+xinput --set-prop 12 "Synaptics Two-Finger Scrolling" 1 
+xinput
+xinput list 12
+xinput list 12 | more
+nvim $I3CONF 
+cd HDD/Code/Android/MovDT2/
+ls
+cd app/src/
+ranger
+xinput 
+ranger
+xinput 
+ls
+./gradlew
+./gradlew downloadApolloSchema --endpoint="https://athleties-serv.herokuapp.com/v1/graphql" --schema="src/main/graphql/com/example/schema.json"
+ls
+ls app
+./gradlew downloadApolloSchema --endpoint="https://athleties-serv.herokuapp.com/v1/graphql" --schema="app/src/main/graphql/com/example/schema.json"
+exit
+./gradlew downloadApolloSchema --endpoint="https://athleties-serv.herokuapp.com/v1/graphql" --schema="app/src/main/graphql/com/example/schema.json" --header="x-hasura-admin-secret: postgresql"
+exit
+nvim
+nvim exit
+nvim VerifyUser.graphql
+exit
+spyder 
+nvim UpdateScore.graphql
+postgre
+sudo add-apt-repository --yes ppa:js-reynaud/kicad-5.1
+sudo apt update
+sudo apt install --install-recommends kicad
+kicad
+find .ino
+ls -r *.ino
+ls -r .ino
+ls -r
+ls --recursive
+ls --recursive *.ino
+ls --recursive *ino
+ls --recursive ino
+ls --recursive 
+history | grep ino
+history
+history | nvim
+ls
+git status
+git log
+git status
+git branch
+git branch -D EBranch
+git branch
+git push
+git branch
+systemctl 
+systemctl docker
+systemctl service docker
+systemctl --help
+nvim
+sudo apt install xtightvncviewer
+xtightvncviewer 192.168.1.76:1
+xtightvncviewer 192.168.1.76:5
+xtightvncviewer 192.168.1.76:1
+xtightvncviewer 192.168.1.76:2
+vncpasswd
+ssh linaro@192.168.1.76
+exit
+psql 
+service
+service --satus-all
+service --status-all
+service --status-all | nvim
+apt-get install postgressql
+sudo apt-get install postgresql
+service --status-all | nvim
+postgresql
+pg_ctlcluster 12 main start
+postgres
+sudo pg_ctlcluster 12 main start
+service --status-all
+service --status-all | grep +
+service status postgresql
+service postgresql status
+psql
+psql localhost
+psql
+psql -h
+psql --helṕ
+psql --help
+psql -h localhost
+psql -h localhost -U root
+psql
+sudo psql
+sudo -U postgres
+psql -U postgres
+sudo psql -U postgres
+cat /etc/passwd
+cat /etc/passwd | grep sql
+sudo psql -U Administrator
+cat /etc/passwd | grep sql
+cat /var/lib/pgsql/9.3/data/pg_hba.conf
+ls /var/lib/postgresql/12/main/
+sudo ls /var/lib/postgresql/12/main/
+sudo su;ls /var/lib/postgresql/12/main/p
+su - postgres
+sudo -u postgres psql postgres
+psql
+sudo psql
+su - postgres
+su - postgressss
+su - postgres
+exit
+sudo -u postgres psql postgres
+exit
+history
+ranger
+./gradlew downloadApolloSchema --endpoint="https://athleties-serv.herokuapp.com/v1/graphql" --schema="app/src/main/graphql/com/example/schema.json" --header="x-hasura-admin-secret: postgresql"
+psql
+psql --help
+psql -h ec2-52-71-231-180.compute-1.amazonaws.com -p 5432 -U blyqctkjpcgxkf
+psql -h ec2-52-71-231-180.compute-1.amazonaws.com -p 5432
+psql -h ec2-52-71-231-180.compute-1.amazonaws.com -p 5432 --username=blyqctkjpcgxkf -W
+psql -h ec2-52-71-231-180.compute-1.amazonaws.com -p 5432 --username=blyqctkjpcgxkf -d dcvel8rf9ked29
+cd Downloads/
+ls
+gimp place-sign.jpg & exit
+psql -h ec2-52-71-231-180.compute-1.amazonaws.com -p 5432 --username=blyqctkjpcgxkf -d dcvel8rf9ked29
+exit
+ranger
+./gradlew downloadApolloSchema --endpoint="https://athleties-serv.herokuapp.com/v1/graphql" --schema="app/src/main/graphql/com/example/schema.json" --header="x-hasura-admin-secret: postgresql"
+git status
+git log
+git push
+pip install bitso
+pip3 install bitso
+git clone https://github.com/bitsoex/bitso-py.git
+ls
+cd bitso-py/
+ls
+mv * ../
+ls
+cd ..
+ls
+rm bitso-py/
+rm -r bitso-py
+ls
+python
+pip install websocket
+py
+python
+pwd
+python
+clear
+sudo clear
+ls
+rm -r test
+rm -r tests
+cd bitso
+ls
+cd ..
+ls
+rm -r examples
+rm -r MANIFEST.in 
+rm -r setup.*
+rm -r test.py 
+rm -r CHANGES.txt 
+rm -r LICENCE.txt 
+rm -r README.md 
+ls
+code bitso_api.py
+ranger
+python bitso_api.py
+ls;python mail.py 
+clear;python mail.py 
+sudo clearpython mail.py 
+sudo clear;python mail.py 
+./bitso_api.py 
+python ./bitso_api.py 
+python ./bitso_api.py
+ranger
+ranger
+python bitso_api.py 
+pip install flask
+nvim flaskTest.py
+python flaskTest.py 
+export FLASK_APP=flaskTest.py
+flask run
+nvim flaskTest.py
+mkdir templates
+cd templates/
+ls
+nvim hello.html
+nvim ../flaskTest.py
+flask run
+cd ..
+flask run
+nvim flaskTest.py 
+flask run
+nvim templates/hello.html 
+flask run
+nvim templates/hello.html 
+flask run
+nvim flaskTest.py 
+flask run
+nvim flaskTest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+python threadtest.py 
+nvim threadtest.py
+nvim flaskTest.py 
+flask run
+nvim flaskTest.py 
+flask run
+nvim flaskTest.py 
+flask run
+ranger
+cd HDD/Code/Python/bitso/
+python classts.py 
+fg
+python classts.py 
+fg
+python classts.py 
+fg
+ls
+exit
+python
+gnome-terminal .
+nvim bitso_impl.py 
+exit
+fla
+flask run
+export FLASK_APP=flaskTest.py
+flask run
+export FLASK_APP=flaskSelv.py
+export FLASK_APP=flaskServ.py
+flask run
+exit
+python
+nvim test.py
+python test
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+cp test.py test2.py
+nvim test2.py 
+python test.py
+nvim test2.py 
+python test2.py
+nvim test2.py 
+python test2.py
+python test.py
+exit
+ifconfig
+hostname -I
+export FLASK_APP=flaskServ.py
+flask run
+ls
+flask run
+nvim flaskServ.py 
+flask run
+nvim flaskServ.py 
+flask run
+nvim bitso_impl.py 
+flask run
+nvim bitso_impl.py 
+flask run
+ls
+nvim templates/hello.html 
+flask run
+nvim templates/hello.html 
+flask run
+nvim templates/hello.html 
+nvim bitso_impl.py 
+flask run
+flask run --host=192.168.1.73
+exit
+ranger
+git init
+git remote add origin https://github.com/Erick-INCS/CryptoMonitor.git
+git push -u origin master
+git push
+git status
+nvim .gitignore
+git status
+git add .
+git commit -m 'init'
+git push
+nvim app.yaml
+git add .
+git commit -m yaml
+git push
+nvim flaskServ.py 
+ls
+python flaskServ.py 
+nvim requeriments.txt
+ls
+mv flaskServ.py main.py
+git add .
+git push .
+git commit -m 'retouch'
+git push
+nvim $INCONF
+nvim $I3CONF
+ranger
+python
+gnome-terminal -e python
+python3
+pwd
+python
+ls py*
+file python3
+./python3
+exit
+rager
+ranger
+ls
+ranger
+./meanMethod.py 
+python main.py 
+git status
+git add .
+git commt -m "anomalies detection"
+git commit -m "anomalies detection"
+git push
+ranger
+python
+ranger
+./main.py 
+1/0.000004
+julia -E 1/0.000004
+./main.py 
+julia -E 1/0.00000426
+./main.py 
+ranger
+git clone https://github.com/android/databinding-samples.git

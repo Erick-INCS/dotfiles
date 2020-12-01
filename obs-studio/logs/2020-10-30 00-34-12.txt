@@ -1,0 +1,743 @@
+00:34:12.322: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+00:34:12.322: CPU Speed: 1381.986MHz
+00:34:12.322: Physical Cores: 4, Logical Cores: 8
+00:34:12.322: Physical Memory: 10966MB Total, 7555MB Free
+00:34:12.322: Kernel Version: Linux 5.8.0-25-generic
+00:34:12.323: Distribution: "Ubuntu" "20.10"
+00:34:12.323: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+00:34:12.324: Portable mode: false
+00:34:12.492: OBS 26.0.2+dfsg1-1 (linux)
+00:34:12.492: ---------------------------------
+00:34:12.493: ---------------------------------
+00:34:12.493: audio settings reset:
+00:34:12.493: 	samples per sec: 48000
+00:34:12.493: 	speakers:        2
+00:34:12.503: ---------------------------------
+00:34:12.504: Initializing OpenGL...
+00:34:12.602: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+00:34:12.602: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+00:34:12.673: ---------------------------------
+00:34:12.673: video settings reset:
+00:34:12.673: 	base resolution:   1366x768
+00:34:12.673: 	output resolution: 1092x614
+00:34:12.673: 	downscale filter:  Bicubic
+00:34:12.673: 	fps:               30/1
+00:34:12.673: 	format:            NV12
+00:34:12.673: 	YUV mode:          709/Partial
+00:34:12.673: NV12 texture support not available
+00:34:12.678: Audio monitoring device:
+00:34:12.678: 	name: Default
+00:34:12.678: 	id: default
+00:34:12.678: ---------------------------------
+00:34:12.681: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+00:34:12.795: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:34:12.795: No blackmagic support
+00:34:12.897: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+00:34:12.897: 
+00:34:12.897: FFMPEG VAAPI supported
+00:34:12.919: VLC found, VLC video source enabled
+00:34:12.919: ---------------------------------
+00:34:12.919:   Loaded Modules:
+00:34:12.919:     vlc-video.so
+00:34:12.919:     text-freetype2.so
+00:34:12.919:     rtmp-services.so
+00:34:12.919:     obs-x264.so
+00:34:12.919:     obs-transitions.so
+00:34:12.919:     obs-outputs.so
+00:34:12.919:     obs-filters.so
+00:34:12.919:     obs-ffmpeg.so
+00:34:12.919:     linux-v4l2.so
+00:34:12.919:     linux-pulseaudio.so
+00:34:12.919:     linux-jack.so
+00:34:12.919:     linux-decklink.so
+00:34:12.919:     linux-capture.so
+00:34:12.919:     linux-alsa.so
+00:34:12.919:     image-source.so
+00:34:12.919:     frontend-tools.so
+00:34:12.919:     decklink-ouput-ui.so
+00:34:12.919: ---------------------------------
+00:34:12.919: ==== Startup complete ===============================================
+00:34:12.923: No scene file found, creating default scene
+00:34:12.923: All scene data cleared
+00:34:12.923: ------------------------------------------------
+00:34:12.930: pulse-input: Server name: 'pulseaudio 13.99.2'
+00:34:12.930: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+00:34:12.931: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+00:34:13.003: pulse-input: Server name: 'pulseaudio 13.99.2'
+00:34:13.003: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+00:34:13.003: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+00:34:13.003: Switched to scene 'Scene'
+00:34:13.003: Failed to glob scene collections
+00:34:13.550: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+00:34:13.550: 
+00:34:35.451: 
+00:34:35.451: ==== Auto-config wizard testing commencing ======
+
+00:34:35.512: ---------------------------------
+00:34:35.512: video settings reset:
+00:34:35.512: 	base resolution:   1366x768
+00:34:35.512: 	output resolution: 1280x720
+00:34:35.512: 	downscale filter:  Bicubic
+00:34:35.512: 	fps:               60/1
+00:34:35.512: 	format:            NV12
+00:34:35.512: 	YUV mode:          709/Partial
+00:34:35.512: NV12 texture support not available
+00:34:35.513: ---------------------------------
+00:34:35.513: [x264 encoder: 'test_x264'] preset: veryfast
+00:34:35.513: [x264 encoder: 'test_x264'] profile: high
+00:34:35.514: [x264 encoder: 'test_x264'] settings:
+00:34:35.514: 	rate_control: CRF
+00:34:35.514: 	bitrate:      0
+00:34:35.514: 	buffer size:  0
+00:34:35.514: 	crf:          20
+00:34:35.514: 	fps_num:      60
+00:34:35.514: 	fps_den:      1
+00:34:35.514: 	width:        1280
+00:34:35.514: 	height:       720
+00:34:35.514: 	keyint:       250
+00:34:35.514: 
+00:34:35.521: ---------------------------------
+00:34:35.522: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+00:34:35.522: 
+00:34:40.525: Output 'null': stopping
+00:34:40.525: Output 'null': Total frames output: 265
+00:34:40.525: Output 'null': Total drawn frames: 299 (300 attempted)
+00:34:40.525: Output 'null': Number of lagged frames due to rendering lag/stalls: 1 (0.3%)
+00:34:40.533: Video stopped, number of skipped frames due to encoding lag: 84/293 (28.7%)
+00:34:40.647: ---------------------------------
+00:34:40.648: video settings reset:
+00:34:40.648: 	base resolution:   1366x768
+00:34:40.648: 	output resolution: 1280x720
+00:34:40.648: 	downscale filter:  Bicubic
+00:34:40.648: 	fps:               30/1
+00:34:40.648: 	format:            NV12
+00:34:40.648: 	YUV mode:          709/Partial
+00:34:40.648: NV12 texture support not available
+00:34:40.648: ---------------------------------
+00:34:40.648: [x264 encoder: 'test_x264'] preset: veryfast
+00:34:40.648: [x264 encoder: 'test_x264'] profile: high
+00:34:40.649: [x264 encoder: 'test_x264'] settings:
+00:34:40.649: 	rate_control: CRF
+00:34:40.649: 	bitrate:      0
+00:34:40.649: 	buffer size:  0
+00:34:40.649: 	crf:          20
+00:34:40.649: 	fps_num:      30
+00:34:40.649: 	fps_den:      1
+00:34:40.649: 	width:        1280
+00:34:40.649: 	height:       720
+00:34:40.649: 	keyint:       250
+00:34:40.649: 
+00:34:40.654: ---------------------------------
+00:34:40.655: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+00:34:40.655: 
+00:34:45.657: Output 'null': stopping
+00:34:45.657: Output 'null': Total frames output: 123
+00:34:45.657: Output 'null': Total drawn frames: 150
+00:34:45.782: ---------------------------------
+00:34:45.782: video settings reset:
+00:34:45.782: 	base resolution:   1366x768
+00:34:45.782: 	output resolution: 852x480
+00:34:45.782: 	downscale filter:  Bicubic
+00:34:45.782: 	fps:               60/1
+00:34:45.782: 	format:            NV12
+00:34:45.782: 	YUV mode:          709/Partial
+00:34:45.782: NV12 texture support not available
+00:34:45.784: ---------------------------------
+00:34:45.784: [x264 encoder: 'test_x264'] preset: veryfast
+00:34:45.784: [x264 encoder: 'test_x264'] profile: high
+00:34:45.784: [x264 encoder: 'test_x264'] settings:
+00:34:45.784: 	rate_control: CRF
+00:34:45.784: 	bitrate:      0
+00:34:45.784: 	buffer size:  0
+00:34:45.784: 	crf:          20
+00:34:45.784: 	fps_num:      60
+00:34:45.784: 	fps_den:      1
+00:34:45.784: 	width:        852
+00:34:45.784: 	height:       480
+00:34:45.784: 	keyint:       250
+00:34:45.784: 
+00:34:45.788: ---------------------------------
+00:34:45.788: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+00:34:45.788: 
+00:34:50.790: Output 'null': stopping
+00:34:50.790: Output 'null': Total frames output: 273
+00:34:50.790: Output 'null': Total drawn frames: 300
+00:34:50.851: ---------------------------------
+00:34:50.851: video settings reset:
+00:34:50.851: 	base resolution:   1366x768
+00:34:50.851: 	output resolution: 852x480
+00:34:50.851: 	downscale filter:  Bicubic
+00:34:50.851: 	fps:               30/1
+00:34:50.851: 	format:            NV12
+00:34:50.851: 	YUV mode:          709/Partial
+00:34:50.851: NV12 texture support not available
+00:34:50.852: ---------------------------------
+00:34:50.852: [x264 encoder: 'test_x264'] preset: veryfast
+00:34:50.852: [x264 encoder: 'test_x264'] profile: high
+00:34:50.852: [x264 encoder: 'test_x264'] settings:
+00:34:50.852: 	rate_control: CRF
+00:34:50.852: 	bitrate:      0
+00:34:50.852: 	buffer size:  0
+00:34:50.852: 	crf:          20
+00:34:50.852: 	fps_num:      30
+00:34:50.852: 	fps_den:      1
+00:34:50.852: 	width:        852
+00:34:50.852: 	height:       480
+00:34:50.852: 	keyint:       250
+00:34:50.852: 
+00:34:50.856: ---------------------------------
+00:34:50.856: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+00:34:50.856: 
+00:34:55.858: Output 'null': stopping
+00:34:55.858: Output 'null': Total frames output: 123
+00:34:55.858: Output 'null': Total drawn frames: 150
+00:34:55.956: ---------------------------------
+00:34:55.956: video settings reset:
+00:34:55.956: 	base resolution:   1366x768
+00:34:55.956: 	output resolution: 1092x614
+00:34:55.956: 	downscale filter:  Bicubic
+00:34:55.956: 	fps:               30/1
+00:34:55.956: 	format:            NV12
+00:34:55.956: 	YUV mode:          709/Partial
+00:34:55.957: NV12 texture support not available
+00:35:03.392: ---------------------------------
+00:35:03.392: video settings reset:
+00:35:03.392: 	base resolution:   1366x768
+00:35:03.392: 	output resolution: 1280x720
+00:35:03.392: 	downscale filter:  Bicubic
+00:35:03.392: 	fps:               30/1
+00:35:03.392: 	format:            NV12
+00:35:03.392: 	YUV mode:          709/Partial
+00:35:03.392: NV12 texture support not available
+00:35:03.398: 
+00:35:03.398: ==== Auto-config wizard testing stopping ========
+
+00:37:03.119: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Desktop Audio)
+00:37:03.119: 
+00:37:51.278: Settings changed (outputs)
+00:37:51.278: ------------------------------------------------
+00:38:22.983: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+00:38:22.983: 
+00:38:41.624: Switched to Preview/Program mode
+00:38:41.624: ------------------------------------------------
+00:38:42.885: Switched to scene 'Scene'
+00:38:42.887: Switched to regular Preview mode
+00:38:42.888: ------------------------------------------------
+00:39:40.931: Starting recording due to OutputTimer
+00:39:40.935: ---------------------------------
+00:39:40.935: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+00:39:40.935: [x264 encoder: 'simple_h264_recording'] profile: high
+00:39:40.935: [x264 encoder: 'simple_h264_recording'] settings:
+00:39:40.935: 	rate_control: CRF
+00:39:40.935: 	bitrate:      0
+00:39:40.935: 	buffer size:  0
+00:39:40.935: 	crf:          21
+00:39:40.935: 	fps_num:      30
+00:39:40.935: 	fps_den:      1
+00:39:40.935: 	width:        1280
+00:39:40.935: 	height:       720
+00:39:40.935: 	keyint:       250
+00:39:40.935: 
+00:39:40.939: ---------------------------------
+00:39:40.940: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+00:39:40.940: 
+00:39:42.270: ==== Recording Start ===============================================
+00:39:42.271: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-30 00-39-40.mkv'...
+00:40:12.978: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-30 00-39-40.mkv' stopped
+00:40:12.978: Output 'simple_file_output': stopping
+00:40:12.978: Output 'simple_file_output': Total frames output: 895
+00:40:12.978: Output 'simple_file_output': Total drawn frames: 921
+00:40:12.978: ==== Recording Stop ================================================
+00:40:33.300: xshm-input: Geometry 1366x768 @ 0,0
+00:40:33.306: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+00:40:52.508: xshm-input: Geometry 1366x768 @ 0,0
+00:43:16.153: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+00:43:31.094: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+00:43:31.141: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:43:31.141: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:43:31.141: 	class: brave-browser
+00:43:31.141: 	Bit depth: 24
+00:43:31.141: 	Found proper GLXFBConfig (in 368): yes
+00:43:31.141: 
+00:43:43.367: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:43:43.367: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:43:43.367: 	class: brave-browser
+00:43:43.367: 	Bit depth: 24
+00:43:43.367: 	Found proper GLXFBConfig (in 368): yes
+00:43:43.367: 
+00:43:44.167: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:43:44.167: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:43:44.167: 	class: brave-browser
+00:43:44.167: 	Bit depth: 24
+00:43:44.167: 	Found proper GLXFBConfig (in 368): yes
+00:43:44.167: 
+00:43:44.967: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:43:44.967: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:43:44.967: 	class: brave-browser
+00:43:44.967: 	Bit depth: 24
+00:43:44.967: 	Found proper GLXFBConfig (in 368): yes
+00:43:44.967: 
+00:43:45.867: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:43:45.867: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:43:45.867: 	class: brave-browser
+00:43:45.867: 	Bit depth: 24
+00:43:45.867: 	Found proper GLXFBConfig (in 368): yes
+00:43:45.867: 
+00:44:03.188: xshm-input: Geometry 1366x768 @ 0,0
+00:44:03.194: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+00:44:07.864: xshm-input: Geometry 1366x768 @ 0,0
+00:44:09.532: xshm-input: Geometry 1366x768 @ 0,0
+00:44:11.931: xshm-input: Geometry 1366x768 @ 0,0
+00:44:18.465: xshm-input: Geometry 1366x768 @ 0,0
+00:44:27.100: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.100: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.100: 	class: brave-browser
+00:44:27.100: 	Bit depth: 24
+00:44:27.100: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.100: 
+00:44:27.300: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.300: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.300: 	class: brave-browser
+00:44:27.300: 	Bit depth: 24
+00:44:27.300: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.300: 
+00:44:27.333: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.333: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.333: 	class: brave-browser
+00:44:27.333: 	Bit depth: 24
+00:44:27.333: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.333: 
+00:44:27.367: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.367: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.367: 	class: brave-browser
+00:44:27.367: 	Bit depth: 24
+00:44:27.367: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.367: 
+00:44:27.399: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.399: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.399: 	class: brave-browser
+00:44:27.399: 	Bit depth: 24
+00:44:27.399: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.399: 
+00:44:27.432: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.432: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.432: 	class: brave-browser
+00:44:27.432: 	Bit depth: 24
+00:44:27.432: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.432: 
+00:44:27.468: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.468: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.468: 	class: brave-browser
+00:44:27.468: 	Bit depth: 24
+00:44:27.468: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.468: 
+00:44:27.499: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.499: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.499: 	class: brave-browser
+00:44:27.499: 	Bit depth: 24
+00:44:27.499: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.499: 
+00:44:27.533: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.533: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.533: 	class: brave-browser
+00:44:27.533: 	Bit depth: 24
+00:44:27.533: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.533: 
+00:44:27.572: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.572: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.572: 	class: brave-browser
+00:44:27.572: 	Bit depth: 24
+00:44:27.572: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.572: 
+00:44:27.600: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.600: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.600: 	class: brave-browser
+00:44:27.600: 	Bit depth: 24
+00:44:27.600: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.600: 
+00:44:27.832: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:27.832: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:27.832: 	class: brave-browser
+00:44:27.832: 	Bit depth: 24
+00:44:27.832: 	Found proper GLXFBConfig (in 368): yes
+00:44:27.832: 
+00:44:28.033: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.033: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.033: 	class: brave-browser
+00:44:28.033: 	Bit depth: 24
+00:44:28.033: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.033: 
+00:44:28.067: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.067: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.067: 	class: brave-browser
+00:44:28.067: 	Bit depth: 24
+00:44:28.067: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.067: 
+00:44:28.101: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.101: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.101: 	class: brave-browser
+00:44:28.101: 	Bit depth: 24
+00:44:28.101: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.101: 
+00:44:28.132: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.132: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.132: 	class: brave-browser
+00:44:28.132: 	Bit depth: 24
+00:44:28.132: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.132: 
+00:44:28.166: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.166: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.166: 	class: brave-browser
+00:44:28.166: 	Bit depth: 24
+00:44:28.166: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.166: 
+00:44:28.201: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.201: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.201: 	class: brave-browser
+00:44:28.201: 	Bit depth: 24
+00:44:28.201: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.201: 
+00:44:28.232: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.232: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.232: 	class: brave-browser
+00:44:28.232: 	Bit depth: 24
+00:44:28.232: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.232: 
+00:44:28.266: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.266: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.266: 	class: brave-browser
+00:44:28.266: 	Bit depth: 24
+00:44:28.266: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.266: 
+00:44:28.301: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.301: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.301: 	class: brave-browser
+00:44:28.301: 	Bit depth: 24
+00:44:28.301: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.301: 
+00:44:28.332: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.332: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.332: 	class: brave-browser
+00:44:28.332: 	Bit depth: 24
+00:44:28.332: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.332: 
+00:44:28.367: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.367: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.367: 	class: brave-browser
+00:44:28.367: 	Bit depth: 24
+00:44:28.367: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.367: 
+00:44:28.403: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.403: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.403: 	class: brave-browser
+00:44:28.403: 	Bit depth: 24
+00:44:28.403: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.403: 
+00:44:28.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.433: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.433: 	class: brave-browser
+00:44:28.433: 	Bit depth: 24
+00:44:28.433: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.433: 
+00:44:28.466: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.466: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.466: 	class: brave-browser
+00:44:28.466: 	Bit depth: 24
+00:44:28.466: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.466: 
+00:44:28.502: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.502: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.502: 	class: brave-browser
+00:44:28.502: 	Bit depth: 24
+00:44:28.502: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.502: 
+00:44:28.532: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.532: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.532: 	class: brave-browser
+00:44:28.532: 	Bit depth: 24
+00:44:28.532: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.532: 
+00:44:28.565: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.565: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.565: 	class: brave-browser
+00:44:28.565: 	Bit depth: 24
+00:44:28.565: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.565: 
+00:44:28.601: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.601: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.601: 	class: brave-browser
+00:44:28.601: 	Bit depth: 24
+00:44:28.601: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.601: 
+00:44:28.632: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:44:28.632: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:44:28.632: 	class: brave-browser
+00:44:28.632: 	Bit depth: 24
+00:44:28.632: 	Found proper GLXFBConfig (in 368): yes
+00:44:28.632: 
+00:46:06.764: Last log entry repeated for 822 more lines
+00:46:06.764: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+00:46:16.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:16.400: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:16.400: 	class: brave-browser
+00:46:16.400: 	Bit depth: 24
+00:46:16.400: 	Found proper GLXFBConfig (in 368): yes
+00:46:16.400: 
+00:46:18.135: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:18.135: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:18.135: 	class: brave-browser
+00:46:18.135: 	Bit depth: 24
+00:46:18.135: 	Found proper GLXFBConfig (in 368): yes
+00:46:18.135: 
+00:46:18.800: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:18.800: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:18.800: 	class: brave-browser
+00:46:18.800: 	Bit depth: 24
+00:46:18.800: 	Found proper GLXFBConfig (in 368): yes
+00:46:18.800: 
+00:46:19.800: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:19.800: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:19.800: 	class: brave-browser
+00:46:19.800: 	Bit depth: 24
+00:46:19.800: 	Found proper GLXFBConfig (in 368): yes
+00:46:19.800: 
+00:46:20.500: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:20.500: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:20.500: 	class: brave-browser
+00:46:20.500: 	Bit depth: 24
+00:46:20.500: 	Found proper GLXFBConfig (in 368): yes
+00:46:20.500: 
+00:46:21.367: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:21.367: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:21.367: 	class: brave-browser
+00:46:21.367: 	Bit depth: 24
+00:46:21.367: 	Found proper GLXFBConfig (in 368): yes
+00:46:21.367: 
+00:46:22.167: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:46:22.167: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:46:22.167: 	class: brave-browser
+00:46:22.167: 	Bit depth: 24
+00:46:22.167: 	Found proper GLXFBConfig (in 368): yes
+00:46:22.167: 
+00:46:46.994: ---------------------------------
+00:46:46.994: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+00:46:46.994: [x264 encoder: 'simple_h264_recording'] profile: high
+00:46:46.994: [x264 encoder: 'simple_h264_recording'] settings:
+00:46:46.994: 	rate_control: CRF
+00:46:46.994: 	bitrate:      0
+00:46:46.994: 	buffer size:  0
+00:46:46.994: 	crf:          21
+00:46:46.994: 	fps_num:      30
+00:46:46.994: 	fps_den:      1
+00:46:46.994: 	width:        1280
+00:46:46.994: 	height:       720
+00:46:46.994: 	keyint:       250
+00:46:46.994: 
+00:46:46.999: ---------------------------------
+00:46:47.000: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+00:46:47.000: 
+00:46:48.633: ==== Recording Start ===============================================
+00:46:48.633: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-30 00-46-46.mkv'...
+00:47:17.109: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-30 00-46-46.mkv' stopped
+00:47:17.109: Output 'simple_file_output': stopping
+00:47:17.109: Output 'simple_file_output': Total frames output: 827
+00:47:17.109: Output 'simple_file_output': Total drawn frames: 854
+00:47:17.110: ==== Recording Stop ================================================
+00:49:02.209: pulse-input: Server name: 'pulseaudio 13.99.2'
+00:49:02.209: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+00:49:02.209: pulse-input: Started recording from 'bluez_sink.F4_BC_DA_1E_F1_25.a2dp_sink.monitor'
+00:49:02.214: User added source 'Audio Output Capture (PulseAudio)' (pulse_output_capture) to scene 'Scene'
+00:49:18.151: ---------------------------------
+00:49:18.151: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+00:49:18.151: [x264 encoder: 'simple_h264_recording'] profile: high
+00:49:18.151: [x264 encoder: 'simple_h264_recording'] settings:
+00:49:18.151: 	rate_control: CRF
+00:49:18.151: 	bitrate:      0
+00:49:18.151: 	buffer size:  0
+00:49:18.151: 	crf:          21
+00:49:18.151: 	fps_num:      30
+00:49:18.151: 	fps_den:      1
+00:49:18.151: 	width:        1280
+00:49:18.151: 	height:       720
+00:49:18.151: 	keyint:       250
+00:49:18.151: 
+00:49:18.154: ---------------------------------
+00:49:18.155: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+00:49:18.155: 
+00:49:18.159: ==== Recording Start ===============================================
+00:49:18.159: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-30 00-49-18.mkv'...
+00:49:35.444: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-30 00-49-18.mkv' stopped
+00:49:35.444: Output 'simple_file_output': stopping
+00:49:35.444: Output 'simple_file_output': Total frames output: 492
+00:49:35.444: Output 'simple_file_output': Total drawn frames: 519
+00:49:35.444: ==== Recording Stop ================================================
+00:51:07.573: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:07.573: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:07.573: 	class: brave-browser
+00:51:07.573: 	Bit depth: 24
+00:51:07.573: 	Found proper GLXFBConfig (in 368): yes
+00:51:07.573: 
+00:51:07.599: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:07.599: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:07.599: 	class: brave-browser
+00:51:07.599: 	Bit depth: 24
+00:51:07.599: 	Found proper GLXFBConfig (in 368): yes
+00:51:07.599: 
+00:51:08.774: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:08.774: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:08.774: 	class: brave-browser
+00:51:08.774: 	Bit depth: 24
+00:51:08.774: 	Found proper GLXFBConfig (in 368): yes
+00:51:08.774: 
+00:51:08.799: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:08.799: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:08.799: 	class: brave-browser
+00:51:08.799: 	Bit depth: 24
+00:51:08.799: 	Found proper GLXFBConfig (in 368): yes
+00:51:08.799: 
+00:51:12.112: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:12.112: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:12.112: 	class: brave-browser
+00:51:12.112: 	Bit depth: 24
+00:51:12.112: 	Found proper GLXFBConfig (in 368): yes
+00:51:12.112: 
+00:51:12.132: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:12.132: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:12.132: 	class: brave-browser
+00:51:12.132: 	Bit depth: 24
+00:51:12.132: 	Found proper GLXFBConfig (in 368): yes
+00:51:12.132: 
+00:51:43.600: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:43.600: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:43.600: 	class: brave-browser
+00:51:43.600: 	Bit depth: 24
+00:51:43.600: 	Found proper GLXFBConfig (in 368): yes
+00:51:43.600: 
+00:51:44.033: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.033: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.033: 	class: brave-browser
+00:51:44.033: 	Bit depth: 24
+00:51:44.033: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.033: 
+00:51:44.234: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.234: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.234: 	class: brave-browser
+00:51:44.234: 	Bit depth: 24
+00:51:44.234: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.234: 
+00:51:44.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.433: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.433: 	class: brave-browser
+00:51:44.433: 	Bit depth: 24
+00:51:44.433: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.433: 
+00:51:44.600: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.600: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.600: 	class: brave-browser
+00:51:44.600: 	Bit depth: 24
+00:51:44.600: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.600: 
+00:51:44.766: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.766: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.766: 	class: brave-browser
+00:51:44.766: 	Bit depth: 24
+00:51:44.766: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.766: 
+00:51:44.968: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:44.968: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:44.968: 	class: brave-browser
+00:51:44.968: 	Bit depth: 24
+00:51:44.968: 	Found proper GLXFBConfig (in 368): yes
+00:51:44.968: 
+00:51:45.133: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:45.133: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:45.133: 	class: brave-browser
+00:51:45.133: 	Bit depth: 24
+00:51:45.133: 	Found proper GLXFBConfig (in 368): yes
+00:51:45.133: 
+00:51:45.333: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:45.333: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:45.333: 	class: brave-browser
+00:51:45.333: 	Bit depth: 24
+00:51:45.333: 	Found proper GLXFBConfig (in 368): yes
+00:51:45.333: 
+00:51:45.533: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:45.533: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:45.533: 	class: brave-browser
+00:51:45.533: 	Bit depth: 24
+00:51:45.533: 	Found proper GLXFBConfig (in 368): yes
+00:51:45.533: 
+00:51:45.767: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:45.767: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:45.767: 	class: brave-browser
+00:51:45.767: 	Bit depth: 24
+00:51:45.767: 	Found proper GLXFBConfig (in 368): yes
+00:51:45.767: 
+00:51:45.932: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:45.932: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:45.932: 	class: brave-browser
+00:51:45.932: 	Bit depth: 24
+00:51:45.932: 	Found proper GLXFBConfig (in 368): yes
+00:51:45.932: 
+00:51:46.133: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:46.133: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:46.133: 	class: brave-browser
+00:51:46.133: 	Bit depth: 24
+00:51:46.133: 	Found proper GLXFBConfig (in 368): yes
+00:51:46.133: 
+00:51:46.499: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:46.499: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:46.499: 	class: brave-browser
+00:51:46.499: 	Bit depth: 24
+00:51:46.499: 	Found proper GLXFBConfig (in 368): yes
+00:51:46.499: 
+00:51:46.732: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:51:46.732: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:51:46.732: 	class: brave-browser
+00:51:46.732: 	Bit depth: 24
+00:51:46.732: 	Found proper GLXFBConfig (in 368): yes
+00:51:46.732: 
+00:52:31.966: Starting recording due to OutputTimer
+00:52:31.969: ---------------------------------
+00:52:31.969: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+00:52:31.969: [x264 encoder: 'simple_h264_recording'] profile: high
+00:52:31.969: [x264 encoder: 'simple_h264_recording'] settings:
+00:52:31.969: 	rate_control: CRF
+00:52:31.969: 	bitrate:      0
+00:52:31.969: 	buffer size:  0
+00:52:31.969: 	crf:          21
+00:52:31.969: 	fps_num:      30
+00:52:31.969: 	fps_den:      1
+00:52:31.969: 	width:        1280
+00:52:31.969: 	height:       720
+00:52:31.969: 	keyint:       250
+00:52:31.969: 
+00:52:31.973: ---------------------------------
+00:52:31.973: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+00:52:31.973: 
+00:52:31.978: ==== Recording Start ===============================================
+00:52:31.978: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-10-30 00-52-31.mkv'...
+00:54:00.268: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:54:00.268: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:54:00.268: 	class: brave-browser
+00:54:00.268: 	Bit depth: 24
+00:54:00.268: 	Found proper GLXFBConfig (in 368): yes
+00:54:00.268: 
+00:54:01.601: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:54:01.601: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:54:01.601: 	class: brave-browser
+00:54:01.601: 	Bit depth: 24
+00:54:01.601: 	Found proper GLXFBConfig (in 368): yes
+00:54:01.601: 
+00:54:01.666: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+00:54:01.666: 	title: Introducción y manipulación de datos con Pandas en Curso de Fundamentos Prácticos de Machine Learning - Brave
+00:54:01.666: 	class: brave-browser
+00:54:01.666: 	Bit depth: 24
+00:54:01.666: 	Found proper GLXFBConfig (in 368): yes
+00:54:01.666: 
+01:11:39.039: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-10-30 00-52-31.mkv' stopped
+01:11:39.040: Output 'simple_file_output': stopping
+01:11:39.040: Output 'simple_file_output': Total frames output: 34383
+01:11:39.040: Output 'simple_file_output': Total drawn frames: 34405 (34412 attempted)
+01:11:39.040: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 7 (0.0%)
+01:11:39.040: ==== Recording Stop ================================================

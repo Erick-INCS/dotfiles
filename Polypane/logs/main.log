@@ -1,0 +1,60 @@
+[2020-11-16 11:58:44.933] [info] Checking for update
+[2020-11-16 11:58:44.942] [error] Error: Error: Cannot find module 'js-yaml'
+Require stack:
+- /tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js
+- /tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js
+- /tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js
+- /tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/main.js
+- /tmp/.mount_PolypaHPzu20/resources/app.asar/app/main.prod.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:798:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/browser_init.js:7718:16)
+    at Module._load (internal/modules/cjs/loader.js:691:27)
+    at Function.Module._load (electron/js2c/asar.js:748:26)
+    at Module.require (internal/modules/cjs/loader.js:853:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at _jsYaml (/tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:59:16)
+    at AppImageUpdater.loadUpdateConfig (/tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:602:16)
+    at Lazy.<anonymous> (/tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:211:58)
+    at Lazy.get value [as value] (/tmp/.mount_PolypaHPzu20/resources/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-11-16 11:58:44.944] [info] update error called
+[2020-11-16 14:35:48.520] [info] Checking for update
+[2020-11-16 14:35:48.529] [error] Error: Error: Cannot find module 'js-yaml'
+Require stack:
+- /tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js
+- /tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js
+- /tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js
+- /tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/main.js
+- /tmp/.mount_PolypajM1fg8/resources/app.asar/app/main.prod.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:798:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/browser_init.js:7718:16)
+    at Module._load (internal/modules/cjs/loader.js:691:27)
+    at Function.Module._load (electron/js2c/asar.js:748:26)
+    at Module.require (internal/modules/cjs/loader.js:853:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at _jsYaml (/tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:59:16)
+    at AppImageUpdater.loadUpdateConfig (/tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:602:16)
+    at Lazy.<anonymous> (/tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:211:58)
+    at Lazy.get value [as value] (/tmp/.mount_PolypajM1fg8/resources/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-11-16 14:35:48.530] [info] update error called
+[2020-11-16 19:00:07.991] [info] Checking for update
+[2020-11-16 19:00:08.000] [error] Error: Error: Cannot find module 'js-yaml'
+Require stack:
+- /tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js
+- /tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js
+- /tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js
+- /tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/main.js
+- /tmp/.mount_Polypay5E0G5/resources/app.asar/app/main.prod.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:798:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/browser_init.js:7718:16)
+    at Module._load (internal/modules/cjs/loader.js:691:27)
+    at Function.Module._load (electron/js2c/asar.js:748:26)
+    at Module.require (internal/modules/cjs/loader.js:853:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at _jsYaml (/tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:59:16)
+    at AppImageUpdater.loadUpdateConfig (/tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:602:16)
+    at Lazy.<anonymous> (/tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:211:58)
+    at Lazy.get value [as value] (/tmp/.mount_Polypay5E0G5/resources/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-11-16 19:00:08.001] [info] update error called

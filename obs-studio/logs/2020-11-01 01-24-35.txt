@@ -1,0 +1,430 @@
+01:24:35.603: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01:24:35.603: CPU Speed: 1366.406MHz
+01:24:35.604: Physical Cores: 4, Logical Cores: 8
+01:24:35.604: Physical Memory: 10966MB Total, 6781MB Free
+01:24:35.604: Kernel Version: Linux 5.8.0-25-generic
+01:24:35.604: Distribution: "Ubuntu" "20.10"
+01:24:35.604: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+01:24:35.605: Portable mode: false
+01:24:35.713: OBS 26.0.2+dfsg1-1 (linux)
+01:24:35.713: ---------------------------------
+01:24:35.713: ---------------------------------
+01:24:35.713: audio settings reset:
+01:24:35.713: 	samples per sec: 48000
+01:24:35.713: 	speakers:        2
+01:24:35.719: ---------------------------------
+01:24:35.719: Initializing OpenGL...
+01:24:35.788: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+01:24:35.788: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+01:24:35.812: ---------------------------------
+01:24:35.812: video settings reset:
+01:24:35.812: 	base resolution:   1366x768
+01:24:35.812: 	output resolution: 1280x720
+01:24:35.812: 	downscale filter:  Bicubic
+01:24:35.812: 	fps:               30/1
+01:24:35.812: 	format:            NV12
+01:24:35.812: 	YUV mode:          709/Partial
+01:24:35.812: NV12 texture support not available
+01:24:35.817: Audio monitoring device:
+01:24:35.817: 	name: Default
+01:24:35.817: 	id: default
+01:24:35.817: ---------------------------------
+01:24:35.819: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:24:35.887: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:24:35.887: No blackmagic support
+01:24:35.910: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:24:35.910: 
+01:24:35.910: FFMPEG VAAPI supported
+01:24:35.919: VLC found, VLC video source enabled
+01:24:35.919: ---------------------------------
+01:24:35.919:   Loaded Modules:
+01:24:35.919:     vlc-video.so
+01:24:35.919:     text-freetype2.so
+01:24:35.919:     rtmp-services.so
+01:24:35.919:     obs-x264.so
+01:24:35.919:     obs-transitions.so
+01:24:35.919:     obs-outputs.so
+01:24:35.919:     obs-filters.so
+01:24:35.919:     obs-ffmpeg.so
+01:24:35.919:     linux-v4l2.so
+01:24:35.919:     linux-pulseaudio.so
+01:24:35.919:     linux-jack.so
+01:24:35.919:     linux-decklink.so
+01:24:35.919:     linux-capture.so
+01:24:35.919:     linux-alsa.so
+01:24:35.919:     image-source.so
+01:24:35.919:     frontend-tools.so
+01:24:35.919:     decklink-ouput-ui.so
+01:24:35.919: ---------------------------------
+01:24:35.919: ==== Startup complete ===============================================
+01:24:35.922: All scene data cleared
+01:24:35.922: ------------------------------------------------
+01:24:35.929: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:24:35.929: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:24:35.929: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:24:35.929: [Loaded global audio device]: 'Desktop Audio'
+01:24:35.999: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:24:35.999: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:24:35.999: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:24:35.999: [Loaded global audio device]: 'Mic/Aux'
+01:24:36.028: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:24:36.029: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:24:36.030: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:24:36.030: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:24:36.030: Switched to scene 'Scene'
+01:24:36.030: ------------------------------------------------
+01:24:36.030: Loaded scenes:
+01:24:36.030: - scene 'Scene':
+01:24:36.030:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+01:24:36.030:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+01:24:36.030: ------------------------------------------------
+01:24:54.397: xshm-input: Geometry 1366x768 @ 0,0
+01:24:54.402: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+01:25:08.753: xshm-input: Geometry 1366x768 @ 0,0
+01:25:09.652: xshm-input: Geometry 1366x768 @ 0,0
+01:25:14.819: xshm-input: Geometry 1366x768 @ 0,0
+01:25:17.287: xshm-input: Geometry 1366x768 @ 0,0
+01:25:28.492: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+01:25:36.252: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:25:42.885: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:25:46.453: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:25:46.453: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:25:46.453: 	class: obs
+01:25:46.453: 	Bit depth: 24
+01:25:46.453: 	Found proper GLXFBConfig (in 368): yes
+01:25:46.453: 
+01:25:54.689: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+01:25:54.689: 
+01:25:56.422: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:25:56.422: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:25:56.422: 	class: obs
+01:25:56.422: 	Bit depth: 24
+01:25:56.422: 	Found proper GLXFBConfig (in 368): yes
+01:25:56.422: 
+01:26:04.786: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+01:26:08.256: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:08.256: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:08.256: 	class: brave-browser
+01:26:08.256: 	Bit depth: 24
+01:26:08.256: 	Found proper GLXFBConfig (in 368): yes
+01:26:08.256: 
+01:26:19.489: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:19.489: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:19.489: 	class: brave-browser
+01:26:19.489: 	Bit depth: 24
+01:26:19.489: 	Found proper GLXFBConfig (in 368): yes
+01:26:19.489: 
+01:26:32.057: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:32.057: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:32.057: 	class: brave-browser
+01:26:32.057: 	Bit depth: 24
+01:26:32.057: 	Found proper GLXFBConfig (in 368): yes
+01:26:32.057: 
+01:26:35.890: ---------------------------------
+01:26:35.891: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:26:35.891: [x264 encoder: 'simple_h264_recording'] profile: high
+01:26:35.891: [x264 encoder: 'simple_h264_recording'] settings:
+01:26:35.891: 	rate_control: CRF
+01:26:35.891: 	bitrate:      0
+01:26:35.891: 	buffer size:  0
+01:26:35.891: 	crf:          21
+01:26:35.891: 	fps_num:      30
+01:26:35.891: 	fps_den:      1
+01:26:35.891: 	width:        1280
+01:26:35.891: 	height:       720
+01:26:35.891: 	keyint:       250
+01:26:35.891: 
+01:26:35.897: ---------------------------------
+01:26:35.898: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:26:35.898: 
+01:26:35.910: ==== Recording Start ===============================================
+01:26:35.910: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-26-35.mkv'...
+01:26:36.756: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:36.756: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:36.756: 	class: brave-browser
+01:26:36.756: 	Bit depth: 24
+01:26:36.756: 	Found proper GLXFBConfig (in 368): yes
+01:26:36.756: 
+01:26:41.524: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:41.524: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:41.524: 	class: brave-browser
+01:26:41.524: 	Bit depth: 24
+01:26:41.524: 	Found proper GLXFBConfig (in 368): yes
+01:26:41.524: 
+01:26:46.426: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:46.426: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:46.426: 	class: brave-browser
+01:26:46.426: 	Bit depth: 24
+01:26:46.426: 	Found proper GLXFBConfig (in 368): yes
+01:26:46.426: 
+01:26:50.029: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:50.029: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:26:50.029: 	class: brave-browser
+01:26:50.029: 	Bit depth: 24
+01:26:50.029: 	Found proper GLXFBConfig (in 368): yes
+01:26:50.029: 
+01:26:50.496: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-26-35.mkv' stopped
+01:26:50.497: Output 'simple_file_output': stopping
+01:26:50.497: Output 'simple_file_output': Total frames output: 411
+01:26:50.497: Output 'simple_file_output': Total drawn frames: 438
+01:26:50.498: ==== Recording Stop ================================================
+01:27:05.555: adding 42 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Desktop Audio)
+01:27:05.555: 
+01:27:43.956: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:27:43.956: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:27:43.956: 	class: brave-browser
+01:27:43.956: 	Bit depth: 24
+01:27:43.956: 	Found proper GLXFBConfig (in 368): yes
+01:27:43.956: 
+01:30:02.857: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:02.857: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:02.857: 	class: brave-browser
+01:30:02.857: 	Bit depth: 24
+01:30:02.857: 	Found proper GLXFBConfig (in 368): yes
+01:30:02.857: 
+01:30:06.836: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:06.836: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:06.836: 	class: brave-browser
+01:30:06.836: 	Bit depth: 24
+01:30:06.836: 	Found proper GLXFBConfig (in 368): yes
+01:30:06.836: 
+01:30:06.858: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:06.858: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:06.858: 	class: brave-browser
+01:30:06.858: 	Bit depth: 24
+01:30:06.858: 	Found proper GLXFBConfig (in 368): yes
+01:30:06.858: 
+01:30:11.260: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:11.260: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:11.260: 	class: brave-browser
+01:30:11.260: 	Bit depth: 24
+01:30:11.260: 	Found proper GLXFBConfig (in 368): yes
+01:30:11.260: 
+01:30:11.288: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:11.288: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:11.288: 	class: brave-browser
+01:30:11.288: 	Bit depth: 24
+01:30:11.288: 	Found proper GLXFBConfig (in 368): yes
+01:30:11.288: 
+01:30:16.356: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:16.356: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:16.356: 	class: brave-browser
+01:30:16.356: 	Bit depth: 24
+01:30:16.356: 	Found proper GLXFBConfig (in 368): yes
+01:30:16.356: 
+01:30:17.555: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:17.555: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:17.555: 	class: brave-browser
+01:30:17.555: 	Bit depth: 24
+01:30:17.555: 	Found proper GLXFBConfig (in 368): yes
+01:30:17.555: 
+01:30:18.757: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:18.757: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:18.757: 	class: brave-browser
+01:30:18.757: 	Bit depth: 24
+01:30:18.757: 	Found proper GLXFBConfig (in 368): yes
+01:30:18.757: 
+01:30:35.093: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+01:30:49.326: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+01:30:49.363: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:49.363: 	title: Question / Help - Workspace screen capture issues [Ubuntu Gnome 14.04] | OBS Forums - Brave
+01:30:49.363: 	class: brave-browser
+01:30:49.363: 	Bit depth: 24
+01:30:49.363: 	Found proper GLXFBConfig (in 368): yes
+01:30:49.363: 
+01:31:03.723: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:31:03.723: 	title: OBS 26.0.2+dfsg1-1 (linux) - Profile: Untitled - Scenes: Untitled
+01:31:03.723: 	class: obs
+01:31:03.723: 	Bit depth: 24
+01:31:03.723: 	Found proper GLXFBConfig (in 368): yes
+01:31:03.723: 
+01:31:19.526: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:31:19.526: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:31:19.526: 	class: brave-browser
+01:31:19.526: 	Bit depth: 24
+01:31:19.526: 	Found proper GLXFBConfig (in 368): yes
+01:31:19.526: 
+01:32:45.455: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:45.455: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:32:45.455: 	class: brave-browser
+01:32:45.455: 	Bit depth: 24
+01:32:45.455: 	Found proper GLXFBConfig (in 368): yes
+01:32:45.455: 
+01:32:47.455: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:47.455: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:32:47.455: 	class: brave-browser
+01:32:47.455: 	Bit depth: 24
+01:32:47.455: 	Found proper GLXFBConfig (in 368): yes
+01:32:47.455: 
+01:32:48.489: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:48.489: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:32:48.489: 	class: brave-browser
+01:32:48.489: 	Bit depth: 24
+01:32:48.489: 	Found proper GLXFBConfig (in 368): yes
+01:32:48.489: 
+01:33:10.470: ---------------------------------
+01:33:10.470: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:33:10.470: [x264 encoder: 'simple_h264_recording'] profile: high
+01:33:10.470: [x264 encoder: 'simple_h264_recording'] settings:
+01:33:10.470: 	rate_control: CRF
+01:33:10.470: 	bitrate:      0
+01:33:10.470: 	buffer size:  0
+01:33:10.470: 	crf:          21
+01:33:10.470: 	fps_num:      30
+01:33:10.470: 	fps_den:      1
+01:33:10.470: 	width:        1280
+01:33:10.470: 	height:       720
+01:33:10.470: 	keyint:       250
+01:33:10.470: 
+01:33:10.475: ---------------------------------
+01:33:10.475: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:33:10.475: 
+01:33:10.479: ==== Recording Start ===============================================
+01:33:10.479: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-33-10.mkv'...
+01:33:31.922: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:33:31.922: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:33:31.922: 	class: brave-browser
+01:33:31.922: 	Bit depth: 24
+01:33:31.922: 	Found proper GLXFBConfig (in 368): yes
+01:33:31.922: 
+01:33:35.395: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-33-10.mkv' stopped
+01:33:35.395: Output 'simple_file_output': stopping
+01:33:35.395: Output 'simple_file_output': Total frames output: 721
+01:33:35.395: Output 'simple_file_output': Total drawn frames: 748
+01:33:35.395: ==== Recording Stop ================================================
+01:34:19.455: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:34:19.455: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:34:19.455: 	class: brave-browser
+01:34:19.455: 	Bit depth: 24
+01:34:19.455: 	Found proper GLXFBConfig (in 368): yes
+01:34:19.455: 
+01:35:30.968: ---------------------------------
+01:35:30.968: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:35:30.968: [x264 encoder: 'simple_h264_recording'] profile: high
+01:35:30.968: [x264 encoder: 'simple_h264_recording'] settings:
+01:35:30.968: 	rate_control: CRF
+01:35:30.968: 	bitrate:      0
+01:35:30.968: 	buffer size:  0
+01:35:30.968: 	crf:          21
+01:35:30.968: 	fps_num:      30
+01:35:30.968: 	fps_den:      1
+01:35:30.968: 	width:        1280
+01:35:30.968: 	height:       720
+01:35:30.968: 	keyint:       250
+01:35:30.968: 
+01:35:30.972: ---------------------------------
+01:35:30.972: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:35:30.972: 
+01:35:30.976: ==== Recording Start ===============================================
+01:35:30.976: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-35-30.mkv'...
+01:35:41.390: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:35:41.390: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:35:41.390: 	class: brave-browser
+01:35:41.390: 	Bit depth: 24
+01:35:41.390: 	Found proper GLXFBConfig (in 368): yes
+01:35:41.390: 
+01:35:56.193: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:35:56.193: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:35:56.193: 	class: brave-browser
+01:35:56.193: 	Bit depth: 24
+01:35:56.193: 	Found proper GLXFBConfig (in 368): yes
+01:35:56.193: 
+01:36:01.957: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:01.957: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:36:01.957: 	class: brave-browser
+01:36:01.957: 	Bit depth: 24
+01:36:01.957: 	Found proper GLXFBConfig (in 368): yes
+01:36:01.957: 
+01:36:02.061: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-35-30.mkv' stopped
+01:36:02.061: Output 'simple_file_output': stopping
+01:36:02.061: Output 'simple_file_output': Total frames output: 906
+01:36:02.061: Output 'simple_file_output': Total drawn frames: 933
+01:36:02.061: ==== Recording Stop ================================================
+01:36:10.625: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:10.625: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:36:10.625: 	class: brave-browser
+01:36:10.625: 	Bit depth: 24
+01:36:10.625: 	Found proper GLXFBConfig (in 368): yes
+01:36:10.625: 
+01:36:57.130: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:57.130: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:36:57.130: 	class: brave-browser
+01:36:57.130: 	Bit depth: 24
+01:36:57.130: 	Found proper GLXFBConfig (in 368): yes
+01:36:57.130: 
+01:37:07.270: ==== Shutting down ==================================================
+01:37:07.273: pulse-input: Stopped recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:37:07.273: pulse-input: Got 136980 packets with 33121366 frames
+01:37:07.274: pulse-input: Stopped recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:37:07.274: pulse-input: Got 137543 packets with 33122761 frames
+01:37:07.274: pulse-input: Stopped recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:37:07.274: pulse-input: Got 110336 packets with 33125905 frames
+01:37:07.275: All scene data cleared
+01:37:07.275: ------------------------------------------------
+01:37:07.361: [Scripting] Total detached callbacks: 0
+01:37:07.363: Freeing OBS context data
+01:37:07.385: == Profiler Results =============================
+01:37:07.385: run_program_init: 595.119 ms
+01:37:07.385:  ┣OBSApp::AppInit: 1.639 ms
+01:37:07.385:  ┃ ┗OBSApp::InitLocale: 0.678 ms
+01:37:07.385:  ┗OBSApp::OBSInit: 559.483 ms
+01:37:07.385:    ┣obs_startup: 20.804 ms
+01:37:07.385:    ┗OBSBasic::OBSInit: 430.47 ms
+01:37:07.385:      ┣OBSBasic::InitBasicConfig: 0.074 ms
+01:37:07.385:      ┣OBSBasic::ResetAudio: 0.132 ms
+01:37:07.385:      ┣OBSBasic::ResetVideo: 103.408 ms
+01:37:07.385:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+01:37:07.386:      ┣OBSBasic::InitHotkeys: 0.061 ms
+01:37:07.386:      ┣obs_load_all_modules: 102.298 ms
+01:37:07.386:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.685 ms
+01:37:07.386:      ┃ ┣obs_init_module(frontend-tools.so): 58.951 ms
+01:37:07.386:      ┃ ┣obs_init_module(image-source.so): 0.007 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-capture.so): 0.321 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-decklink.so): 0.148 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(linux-v4l2.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.245 ms
+01:37:07.386:      ┃ ┃ ┗nvenc_check: 0.225 ms
+01:37:07.386:      ┃ ┣obs_init_module(obs-filters.so): 0.028 ms
+01:37:07.386:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(obs-transitions.so): 0.006 ms
+01:37:07.386:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+01:37:07.386:      ┃ ┣obs_init_module(rtmp-services.so): 0.491 ms
+01:37:07.386:      ┃ ┣obs_init_module(text-freetype2.so): 0.01 ms
+01:37:07.386:      ┃ ┗obs_init_module(vlc-video.so): 1.116 ms
+01:37:07.386:      ┣OBSBasic::ResetOutputs: 0.12 ms
+01:37:07.386:      ┣OBSBasic::CreateHotkeys: 0.036 ms
+01:37:07.386:      ┣OBSBasic::InitService: 1.092 ms
+01:37:07.386:      ┣OBSBasic::InitPrimitives: 0.095 ms
+01:37:07.386:      ┗OBSBasic::Load: 112.868 ms
+01:37:07.386: obs_hotkey_thread(25 ms): min=0.053 ms, median=0.175 ms, max=26.757 ms, 99th percentile=1.126 ms, 99.9933% below 25 ms
+01:37:07.386: audio_thread(Audio): min=0 ms, median=0.117 ms, max=12.586 ms, 99th percentile=4.952 ms
+01:37:07.386:  ┗receive_audio: min=0.003 ms, median=2.772 ms, max=7.542 ms, 99th percentile=5.316 ms, 0.0944392 calls per parent call
+01:37:07.386:    ┣buffer_audio: min=0 ms, median=0.002 ms, max=0.137 ms, 99th percentile=0.009 ms
+01:37:07.386:    ┗do_encode: min=0.017 ms, median=2.771 ms, max=7.536 ms, 99th percentile=5.314 ms
+01:37:07.386:      ┗encode(simple_aac_recording): min=0.017 ms, median=2.765 ms, max=7.526 ms, 99th percentile=5.304 ms
+01:37:07.386: obs_graphics_thread(33.3333 ms): min=0.221 ms, median=1.351 ms, max=70.662 ms, 99th percentile=7.452 ms, 99.9956% below 33.333 ms
+01:37:07.386:  ┣tick_sources: min=0 ms, median=0.388 ms, max=23.284 ms, 99th percentile=3.999 ms
+01:37:07.386:  ┣output_frame: min=0.112 ms, median=0.241 ms, max=9.407 ms, 99th percentile=4.033 ms
+01:37:07.386:  ┃ ┣gs_context(video->graphics): min=0.112 ms, median=0.24 ms, max=9.406 ms, 99th percentile=3.644 ms
+01:37:07.386:  ┃ ┃ ┣render_video: min=0.031 ms, median=0.102 ms, max=9.365 ms, 99th percentile=3.588 ms
+01:37:07.386:  ┃ ┃ ┃ ┣render_main_texture: min=0.025 ms, median=0.096 ms, max=1.081 ms, 99th percentile=0.226 ms
+01:37:07.386:  ┃ ┃ ┃ ┣render_output_texture: min=0.017 ms, median=0.036 ms, max=0.899 ms, 99th percentile=0.095 ms, 0.0939898 calls per parent call
+01:37:07.386:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.041 ms, max=0.704 ms, 99th percentile=0.086 ms, 0.0939898 calls per parent call
+01:37:07.386:  ┃ ┃ ┃ ┗stage_output_texture: min=2.359 ms, median=2.852 ms, max=7.649 ms, 99th percentile=4.266 ms, 0.0939898 calls per parent call
+01:37:07.386:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.099 ms, max=3.351 ms, 99th percentile=0.229 ms
+01:37:07.386:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=0.06 ms, 99th percentile=0.027 ms, 0.0939898 calls per parent call
+01:37:07.386:  ┃ ┗output_video_data: min=0.246 ms, median=0.308 ms, max=3.945 ms, 99th percentile=0.734 ms, 0.0938567 calls per parent call
+01:37:07.386:  ┗render_displays: min=0.005 ms, median=0.557 ms, max=47.003 ms, 99th percentile=3.819 ms
+01:37:07.386: video_thread(video): min=0.634 ms, median=1.191 ms, max=9.645 ms, 99th percentile=3.186 ms
+01:37:07.386:  ┗receive_video: min=0.632 ms, median=1.188 ms, max=9.642 ms, 99th percentile=3.182 ms
+01:37:07.386:    ┗do_encode: min=0.631 ms, median=1.187 ms, max=9.64 ms, 99th percentile=3.18 ms
+01:37:07.386:      ┗encode(simple_h264_recording): min=0.622 ms, median=1.167 ms, max=4.579 ms, 99th percentile=3.082 ms
+01:37:07.386: =================================================
+01:37:07.386: == Profiler Time Between Calls ==================
+01:37:07.386: obs_hotkey_thread(25 ms): min=25.113 ms, median=25.259 ms, max=51.847 ms, 85.5804% within ±2% of 25 ms (0% lower, 14.4196% higher)
+01:37:07.386: obs_graphics_thread(33.3333 ms): min=29.32 ms, median=33.333 ms, max=70.688 ms, 99.9823% within ±2% of 33.333 ms (0.00887154% lower, 0.00887154% higher)
+01:37:07.386: =================================================
+01:37:07.459: Number of memory leaks: 0

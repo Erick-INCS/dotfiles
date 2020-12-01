@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"https://api.unity.com":{"supports_spdy":true}},{"https://cdn.optimizely.com":{"supports_spdy":true}},{"https://connect-prd-cdn.unity.com":{"supports_spdy":true}}],"version":5},"network_qualities":{"CAISEUlORklOSVRVTTU0QTFfMi40GICAgID4/////wE=":"3G","CAYSABiAgICA+P////8B":"Offline"}}}

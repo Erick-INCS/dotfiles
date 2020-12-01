@@ -16,6 +16,7 @@ let g:coc_global_extensions = [
 " Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+Plug 'OmniSharp/omnisharp-vim'
 
 call plug#end()
 
@@ -193,3 +194,6 @@ set statusline="%f%m%r%h%w [%Y] [0x%02.2B]%< %F%=%4v,%4l %3p%% of %L"
 
 " Files
 nnoremap <C-S-f> :Files<CR>
+
+" Disable togle word wrap
+set nowrap

@@ -1,0 +1,1157 @@
+01:47:25.054: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01:47:25.054: CPU Speed: 1370.507MHz
+01:47:25.055: Physical Cores: 4, Logical Cores: 8
+01:47:25.055: Physical Memory: 10966MB Total, 7171MB Free
+01:47:25.055: Kernel Version: Linux 5.8.0-25-generic
+01:47:25.055: Distribution: "Ubuntu" "20.10"
+01:47:25.056: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+01:47:25.057: Portable mode: false
+01:47:25.167: OBS 26.0.2+dfsg1-1 (linux)
+01:47:25.168: ---------------------------------
+01:47:25.168: ---------------------------------
+01:47:25.168: audio settings reset:
+01:47:25.168: 	samples per sec: 48000
+01:47:25.168: 	speakers:        2
+01:47:25.176: ---------------------------------
+01:47:25.176: Initializing OpenGL...
+01:47:25.265: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+01:47:25.265: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+01:47:25.286: ---------------------------------
+01:47:25.286: video settings reset:
+01:47:25.286: 	base resolution:   1366x768
+01:47:25.286: 	output resolution: 1280x720
+01:47:25.286: 	downscale filter:  Bicubic
+01:47:25.286: 	fps:               30/1
+01:47:25.286: 	format:            NV12
+01:47:25.286: 	YUV mode:          709/Partial
+01:47:25.287: NV12 texture support not available
+01:47:25.291: Audio monitoring device:
+01:47:25.291: 	name: Default
+01:47:25.291: 	id: default
+01:47:25.291: ---------------------------------
+01:47:25.294: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:47:25.367: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:47:25.367: No blackmagic support
+01:47:25.390: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:47:25.390: 
+01:47:25.390: FFMPEG VAAPI supported
+01:47:25.400: VLC found, VLC video source enabled
+01:47:25.400: ---------------------------------
+01:47:25.400:   Loaded Modules:
+01:47:25.400:     vlc-video.so
+01:47:25.400:     text-freetype2.so
+01:47:25.400:     rtmp-services.so
+01:47:25.400:     obs-x264.so
+01:47:25.400:     obs-transitions.so
+01:47:25.400:     obs-outputs.so
+01:47:25.400:     obs-filters.so
+01:47:25.400:     obs-ffmpeg.so
+01:47:25.400:     linux-v4l2.so
+01:47:25.400:     linux-pulseaudio.so
+01:47:25.400:     linux-jack.so
+01:47:25.400:     linux-decklink.so
+01:47:25.400:     linux-capture.so
+01:47:25.400:     linux-alsa.so
+01:47:25.400:     image-source.so
+01:47:25.400:     frontend-tools.so
+01:47:25.400:     decklink-ouput-ui.so
+01:47:25.400: ---------------------------------
+01:47:25.400: ==== Startup complete ===============================================
+01:47:25.403: All scene data cleared
+01:47:25.403: ------------------------------------------------
+01:47:25.410: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:47:25.410: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:47:25.410: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:47:25.410: [Loaded global audio device]: 'Desktop Audio'
+01:47:25.483: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:47:25.484: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:47:25.484: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:47:25.484: [Loaded global audio device]: 'Mic/Aux'
+01:47:25.498: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:47:25.499: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:47:25.499: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:47:25.501: Switched to scene 'Scene'
+01:47:25.502: ------------------------------------------------
+01:47:25.502: Loaded scenes:
+01:47:25.502: - scene 'Scene':
+01:47:25.502:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+01:47:25.502:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+01:47:25.502: ------------------------------------------------
+01:47:26.034: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+01:47:26.034: 
+01:47:35.688: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:47:35.688: 	title: New Tab - Brave
+01:47:35.688: 	class: brave-browser
+01:47:35.688: 	Bit depth: 24
+01:47:35.688: 	Found proper GLXFBConfig (in 368): yes
+01:47:35.688: 
+01:47:57.629: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:47:57.629: 	title: New Tab - Brave
+01:47:57.629: 	class: brave-browser
+01:47:57.629: 	Bit depth: 24
+01:47:57.629: 	Found proper GLXFBConfig (in 368): yes
+01:47:57.629: 
+01:47:58.198: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:47:58.198: 	title: New Tab - Brave
+01:47:58.198: 	class: brave-browser
+01:47:58.198: 	Bit depth: 24
+01:47:58.198: 	Found proper GLXFBConfig (in 368): yes
+01:47:58.198: 
+01:47:59.399: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:47:59.399: 	title: New Tab - Brave
+01:47:59.399: 	class: brave-browser
+01:47:59.399: 	Bit depth: 24
+01:47:59.399: 	Found proper GLXFBConfig (in 368): yes
+01:47:59.399: 
+01:49:08.461: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:49:08.461: 	title: New Tab - Brave
+01:49:08.461: 	class: brave-browser
+01:49:08.461: 	Bit depth: 24
+01:49:08.461: 	Found proper GLXFBConfig (in 368): yes
+01:49:08.461: 
+01:49:12.595: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:49:12.595: 	title: New Tab - Brave
+01:49:12.595: 	class: brave-browser
+01:49:12.595: 	Bit depth: 24
+01:49:12.595: 	Found proper GLXFBConfig (in 368): yes
+01:49:12.595: 
+01:49:16.928: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:49:16.928: 	title: New Tab - Brave
+01:49:16.928: 	class: brave-browser
+01:49:16.928: 	Bit depth: 24
+01:49:16.928: 	Found proper GLXFBConfig (in 368): yes
+01:49:16.928: 
+01:49:53.661: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:49:53.661: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:49:53.661: 	class: brave-browser
+01:49:53.661: 	Bit depth: 24
+01:49:53.661: 	Found proper GLXFBConfig (in 368): yes
+01:49:53.661: 
+01:51:29.129: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:51:29.129: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:51:29.129: 	class: brave-browser
+01:51:29.129: 	Bit depth: 24
+01:51:29.129: 	Found proper GLXFBConfig (in 368): yes
+01:51:29.129: 
+01:51:59.751: ---------------------------------
+01:51:59.751: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:51:59.751: [x264 encoder: 'simple_h264_recording'] profile: high
+01:51:59.751: [x264 encoder: 'simple_h264_recording'] settings:
+01:51:59.751: 	rate_control: CRF
+01:51:59.751: 	bitrate:      0
+01:51:59.751: 	buffer size:  0
+01:51:59.751: 	crf:          21
+01:51:59.751: 	fps_num:      30
+01:51:59.751: 	fps_den:      1
+01:51:59.751: 	width:        1280
+01:51:59.751: 	height:       720
+01:51:59.751: 	keyint:       250
+01:51:59.751: 
+01:51:59.757: ---------------------------------
+01:51:59.757: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:51:59.757: 
+01:51:59.778: ==== Recording Start ===============================================
+01:51:59.778: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-51-59.mkv'...
+01:52:06.964: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:52:06.964: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:52:06.964: 	class: brave-browser
+01:52:06.964: 	Bit depth: 24
+01:52:06.964: 	Found proper GLXFBConfig (in 368): yes
+01:52:06.964: 
+01:52:49.629: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:52:49.629: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:52:49.629: 	class: brave-browser
+01:52:49.629: 	Bit depth: 24
+01:52:49.629: 	Found proper GLXFBConfig (in 368): yes
+01:52:49.629: 
+01:53:11.895: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:53:11.895: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:53:11.895: 	class: brave-browser
+01:53:11.895: 	Bit depth: 24
+01:53:11.895: 	Found proper GLXFBConfig (in 368): yes
+01:53:11.895: 
+01:54:03.233: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:54:03.233: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:54:03.233: 	class: brave-browser
+01:54:03.233: 	Bit depth: 24
+01:54:03.233: 	Found proper GLXFBConfig (in 368): yes
+01:54:03.233: 
+01:54:12.459: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-51-59.mkv' stopped
+01:54:12.459: Output 'simple_file_output': stopping
+01:54:12.459: Output 'simple_file_output': Total frames output: 3910
+01:54:12.459: Output 'simple_file_output': Total drawn frames: 3981
+01:54:12.460: ==== Recording Stop ================================================
+01:54:14.699: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:54:14.699: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:54:14.699: 	class: brave-browser
+01:54:14.699: 	Bit depth: 24
+01:54:14.699: 	Found proper GLXFBConfig (in 368): yes
+01:54:14.699: 
+01:55:40.575: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Desktop Audio)
+01:55:40.575: 
+01:56:24.154: ---------------------------------
+01:56:24.154: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:56:24.154: [x264 encoder: 'simple_h264_recording'] profile: high
+01:56:24.154: [x264 encoder: 'simple_h264_recording'] settings:
+01:56:24.154: 	rate_control: CRF
+01:56:24.154: 	bitrate:      0
+01:56:24.154: 	buffer size:  0
+01:56:24.154: 	crf:          21
+01:56:24.154: 	fps_num:      30
+01:56:24.154: 	fps_den:      1
+01:56:24.154: 	width:        1280
+01:56:24.154: 	height:       720
+01:56:24.154: 	keyint:       250
+01:56:24.154: 
+01:56:24.158: ---------------------------------
+01:56:24.159: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:56:24.159: 
+01:56:24.163: ==== Recording Start ===============================================
+01:56:24.163: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-56-24.mkv'...
+01:56:29.229: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:29.229: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:56:29.229: 	class: brave-browser
+01:56:29.229: 	Bit depth: 24
+01:56:29.229: 	Found proper GLXFBConfig (in 368): yes
+01:56:29.229: 
+01:56:33.629: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:33.629: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:56:33.629: 	class: brave-browser
+01:56:33.629: 	Bit depth: 24
+01:56:33.629: 	Found proper GLXFBConfig (in 368): yes
+01:56:33.629: 
+01:57:21.468: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:57:21.468: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:57:21.468: 	class: brave-browser
+01:57:21.468: 	Bit depth: 24
+01:57:21.468: 	Found proper GLXFBConfig (in 368): yes
+01:57:21.468: 
+01:58:28.697: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:58:28.697: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:58:28.697: 	class: brave-browser
+01:58:28.697: 	Bit depth: 24
+01:58:28.697: 	Found proper GLXFBConfig (in 368): yes
+01:58:28.697: 
+01:58:32.697: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:58:32.697: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:58:32.697: 	class: brave-browser
+01:58:32.697: 	Bit depth: 24
+01:58:32.697: 	Found proper GLXFBConfig (in 368): yes
+01:58:32.697: 
+01:58:34.363: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:58:34.363: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:58:34.363: 	class: brave-browser
+01:58:34.363: 	Bit depth: 24
+01:58:34.363: 	Found proper GLXFBConfig (in 368): yes
+01:58:34.363: 
+01:58:35.837: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:58:35.837: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:58:35.837: 	class: brave-browser
+01:58:35.837: 	Bit depth: 24
+01:58:35.837: 	Found proper GLXFBConfig (in 368): yes
+01:58:35.837: 
+01:03:54.234: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:03:54.234: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:03:54.234: 	class: brave-browser
+01:03:54.234: 	Bit depth: 24
+01:03:54.234: 	Found proper GLXFBConfig (in 368): yes
+01:03:54.234: 
+01:03:54.294: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:03:54.294: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:03:54.294: 	class: brave-browser
+01:03:54.294: 	Bit depth: 24
+01:03:54.294: 	Found proper GLXFBConfig (in 368): yes
+01:03:54.294: 
+01:05:07.749: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-56-24.mkv' stopped
+01:05:07.749: Output 'simple_file_output': stopping
+01:05:07.749: Output 'simple_file_output': Total frames output: 15680
+01:05:07.749: Output 'simple_file_output': Total drawn frames: 15707
+01:05:07.749: ==== Recording Stop ================================================
+01:05:10.966: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:05:10.966: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:05:10.966: 	class: brave-browser
+01:05:10.966: 	Bit depth: 24
+01:05:10.966: 	Found proper GLXFBConfig (in 368): yes
+01:05:10.966: 
+01:05:14.032: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:05:14.032: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:05:14.032: 	class: brave-browser
+01:05:14.032: 	Bit depth: 24
+01:05:14.032: 	Found proper GLXFBConfig (in 368): yes
+01:05:14.032: 
+01:05:14.063: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:05:14.063: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:05:14.063: 	class: brave-browser
+01:05:14.063: 	Bit depth: 24
+01:05:14.063: 	Found proper GLXFBConfig (in 368): yes
+01:05:14.063: 
+01:14:35.647: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:14:35.647: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:14:35.647: 	class: brave-browser
+01:14:35.647: 	Bit depth: 24
+01:14:35.647: 	Found proper GLXFBConfig (in 368): yes
+01:14:35.647: 
+01:14:49.113: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:14:49.113: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:14:49.113: 	class: brave-browser
+01:14:49.113: 	Bit depth: 24
+01:14:49.113: 	Found proper GLXFBConfig (in 368): yes
+01:14:49.113: 
+01:15:54.223: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:15:54.223: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:15:54.223: 	class: brave-browser
+01:15:54.223: 	Bit depth: 24
+01:15:54.223: 	Found proper GLXFBConfig (in 368): yes
+01:15:54.223: 
+01:17:38.054: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:17:38.054: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:17:38.054: 	class: brave-browser
+01:17:38.054: 	Bit depth: 24
+01:17:38.054: 	Found proper GLXFBConfig (in 368): yes
+01:17:38.054: 
+01:21:09.855: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:09.855: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:21:09.855: 	class: brave-browser
+01:21:09.855: 	Bit depth: 24
+01:21:09.855: 	Found proper GLXFBConfig (in 368): yes
+01:21:09.855: 
+01:21:10.853: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:10.853: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:21:10.853: 	class: brave-browser
+01:21:10.853: 	Bit depth: 24
+01:21:10.853: 	Found proper GLXFBConfig (in 368): yes
+01:21:10.853: 
+01:21:14.681: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:14.681: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:21:14.681: 	class: brave-browser
+01:21:14.681: 	Bit depth: 24
+01:21:14.681: 	Found proper GLXFBConfig (in 368): yes
+01:21:14.681: 
+01:21:33.382: ---------------------------------
+01:21:33.382: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:21:33.382: [x264 encoder: 'simple_h264_recording'] profile: high
+01:21:33.382: [x264 encoder: 'simple_h264_recording'] settings:
+01:21:33.382: 	rate_control: CRF
+01:21:33.382: 	bitrate:      0
+01:21:33.382: 	buffer size:  0
+01:21:33.382: 	crf:          21
+01:21:33.382: 	fps_num:      30
+01:21:33.382: 	fps_den:      1
+01:21:33.382: 	width:        1280
+01:21:33.382: 	height:       720
+01:21:33.382: 	keyint:       250
+01:21:33.382: 
+01:21:33.387: ---------------------------------
+01:21:33.387: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:21:33.387: 
+01:21:33.391: ==== Recording Start ===============================================
+01:21:33.391: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-21-33.mkv'...
+01:21:36.113: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:36.113: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:21:36.113: 	class: brave-browser
+01:21:36.113: 	Bit depth: 24
+01:21:36.113: 	Found proper GLXFBConfig (in 368): yes
+01:21:36.113: 
+01:21:46.951: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:21:46.951: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:21:46.951: 	class: brave-browser
+01:21:46.951: 	Bit depth: 24
+01:21:46.951: 	Found proper GLXFBConfig (in 368): yes
+01:21:46.951: 
+01:22:02.180: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:02.180: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:02.180: 	class: brave-browser
+01:22:02.180: 	Bit depth: 24
+01:22:02.180: 	Found proper GLXFBConfig (in 368): yes
+01:22:02.180: 
+01:22:02.212: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:02.212: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:02.212: 	class: brave-browser
+01:22:02.212: 	Bit depth: 24
+01:22:02.212: 	Found proper GLXFBConfig (in 368): yes
+01:22:02.212: 
+01:22:46.015: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:46.015: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:46.015: 	class: brave-browser
+01:22:46.015: 	Bit depth: 24
+01:22:46.015: 	Found proper GLXFBConfig (in 368): yes
+01:22:46.015: 
+01:22:51.184: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:51.184: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:51.184: 	class: brave-browser
+01:22:51.184: 	Bit depth: 24
+01:22:51.184: 	Found proper GLXFBConfig (in 368): yes
+01:22:51.184: 
+01:22:51.216: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:51.216: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:51.216: 	class: brave-browser
+01:22:51.216: 	Bit depth: 24
+01:22:51.216: 	Found proper GLXFBConfig (in 368): yes
+01:22:51.216: 
+01:22:57.580: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:57.580: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:22:57.580: 	class: brave-browser
+01:22:57.580: 	Bit depth: 24
+01:22:57.580: 	Found proper GLXFBConfig (in 368): yes
+01:22:57.580: 
+01:23:52.281: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:23:52.281: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:23:52.281: 	class: brave-browser
+01:23:52.281: 	Bit depth: 24
+01:23:52.281: 	Found proper GLXFBConfig (in 368): yes
+01:23:52.281: 
+01:26:19.582: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:19.582: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:26:19.582: 	class: brave-browser
+01:26:19.582: 	Bit depth: 24
+01:26:19.582: 	Found proper GLXFBConfig (in 368): yes
+01:26:19.582: 
+01:26:24.179: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:24.179: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:26:24.179: 	class: brave-browser
+01:26:24.179: 	Bit depth: 24
+01:26:24.179: 	Found proper GLXFBConfig (in 368): yes
+01:26:24.179: 
+01:26:26.347: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:26.347: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:26:26.347: 	class: brave-browser
+01:26:26.347: 	Bit depth: 24
+01:26:26.347: 	Found proper GLXFBConfig (in 368): yes
+01:26:26.347: 
+01:26:26.383: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:26:26.383: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:26:26.383: 	class: brave-browser
+01:26:26.383: 	Bit depth: 24
+01:26:26.383: 	Found proper GLXFBConfig (in 368): yes
+01:26:26.383: 
+01:27:36.549: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:27:36.549: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:27:36.549: 	class: brave-browser
+01:27:36.549: 	Bit depth: 24
+01:27:36.549: 	Found proper GLXFBConfig (in 368): yes
+01:27:36.549: 
+01:28:55.813: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:28:55.813: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:28:55.813: 	class: brave-browser
+01:28:55.813: 	Bit depth: 24
+01:28:55.813: 	Found proper GLXFBConfig (in 368): yes
+01:28:55.813: 
+01:29:02.088: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:29:02.088: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:29:02.088: 	class: brave-browser
+01:29:02.088: 	Bit depth: 24
+01:29:02.088: 	Found proper GLXFBConfig (in 368): yes
+01:29:02.088: 
+01:30:09.154: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:09.154: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:30:09.154: 	class: brave-browser
+01:30:09.154: 	Bit depth: 24
+01:30:09.154: 	Found proper GLXFBConfig (in 368): yes
+01:30:09.154: 
+01:30:11.980: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:11.980: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:30:11.980: 	class: brave-browser
+01:30:11.980: 	Bit depth: 24
+01:30:11.980: 	Found proper GLXFBConfig (in 368): yes
+01:30:11.980: 
+01:30:15.249: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:15.249: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:30:15.249: 	class: brave-browser
+01:30:15.249: 	Bit depth: 24
+01:30:15.249: 	Found proper GLXFBConfig (in 368): yes
+01:30:15.249: 
+01:30:15.348: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:15.348: 	title: Implementando la Regularización en Curso de Deep Learning con Pytorch - Brave
+01:30:15.348: 	class: brave-browser
+01:30:15.348: 	Bit depth: 24
+01:30:15.348: 	Found proper GLXFBConfig (in 368): yes
+01:30:15.348: 
+01:30:23.391: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-21-33.mkv' stopped
+01:30:23.391: Output 'simple_file_output': stopping
+01:30:23.391: Output 'simple_file_output': Total frames output: 15873
+01:30:23.391: Output 'simple_file_output': Total drawn frames: 15900
+01:30:23.392: ==== Recording Stop ================================================
+01:30:25.817: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:25.817: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:30:25.817: 	class: brave-browser
+01:30:25.817: 	Bit depth: 24
+01:30:25.817: 	Found proper GLXFBConfig (in 368): yes
+01:30:25.817: 
+01:30:29.682: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:29.682: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:30:29.682: 	class: brave-browser
+01:30:29.682: 	Bit depth: 24
+01:30:29.682: 	Found proper GLXFBConfig (in 368): yes
+01:30:29.682: 
+01:30:39.417: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:39.417: 	title: Untitled - Brave
+01:30:39.417: 	class: brave-browser
+01:30:39.417: 	Bit depth: 24
+01:30:39.417: 	Found proper GLXFBConfig (in 368): yes
+01:30:39.417: 
+01:30:53.315: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:53.315: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:30:53.315: 	class: brave-browser
+01:30:53.315: 	Bit depth: 24
+01:30:53.315: 	Found proper GLXFBConfig (in 368): yes
+01:30:53.315: 
+01:30:54.522: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:30:54.522: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:30:54.522: 	class: brave-browser
+01:30:54.522: 	Bit depth: 24
+01:30:54.522: 	Found proper GLXFBConfig (in 368): yes
+01:30:54.522: 
+01:31:02.912: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:31:02.912: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:31:02.912: 	class: brave-browser
+01:31:02.912: 	Bit depth: 24
+01:31:02.912: 	Found proper GLXFBConfig (in 368): yes
+01:31:02.912: 
+01:32:10.583: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:10.583: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:32:10.583: 	class: brave-browser
+01:32:10.583: 	Bit depth: 24
+01:32:10.583: 	Found proper GLXFBConfig (in 368): yes
+01:32:10.583: 
+01:32:18.085: ---------------------------------
+01:32:18.085: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:32:18.085: [x264 encoder: 'simple_h264_recording'] profile: high
+01:32:18.085: [x264 encoder: 'simple_h264_recording'] settings:
+01:32:18.085: 	rate_control: CRF
+01:32:18.085: 	bitrate:      0
+01:32:18.085: 	buffer size:  0
+01:32:18.085: 	crf:          21
+01:32:18.085: 	fps_num:      30
+01:32:18.085: 	fps_den:      1
+01:32:18.085: 	width:        1280
+01:32:18.085: 	height:       720
+01:32:18.085: 	keyint:       250
+01:32:18.085: 
+01:32:18.089: ---------------------------------
+01:32:18.089: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:32:18.089: 
+01:32:18.094: ==== Recording Start ===============================================
+01:32:18.094: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-32-18.mkv'...
+01:32:20.713: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:20.713: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:32:20.713: 	class: brave-browser
+01:32:20.713: 	Bit depth: 24
+01:32:20.713: 	Found proper GLXFBConfig (in 368): yes
+01:32:20.713: 
+01:32:34.147: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:32:34.147: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:32:34.147: 	class: brave-browser
+01:32:34.147: 	Bit depth: 24
+01:32:34.147: 	Found proper GLXFBConfig (in 368): yes
+01:32:34.147: 
+01:37:54.447: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:54.447: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:37:54.447: 	class: brave-browser
+01:37:54.447: 	Bit depth: 24
+01:37:54.447: 	Found proper GLXFBConfig (in 368): yes
+01:37:54.447: 
+01:38:00.116: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:00.116: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:38:00.116: 	class: brave-browser
+01:38:00.116: 	Bit depth: 24
+01:38:00.116: 	Found proper GLXFBConfig (in 368): yes
+01:38:00.116: 
+01:38:00.145: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:00.145: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:38:00.145: 	class: brave-browser
+01:38:00.145: 	Bit depth: 24
+01:38:00.145: 	Found proper GLXFBConfig (in 368): yes
+01:38:00.145: 
+01:38:40.948: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:40.948: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:38:40.948: 	class: brave-browser
+01:38:40.948: 	Bit depth: 24
+01:38:40.948: 	Found proper GLXFBConfig (in 368): yes
+01:38:40.948: 
+01:39:03.214: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:39:03.214: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:39:03.214: 	class: brave-browser
+01:39:03.214: 	Bit depth: 24
+01:39:03.214: 	Found proper GLXFBConfig (in 368): yes
+01:39:03.214: 
+01:40:04.517: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:40:04.517: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:40:04.517: 	class: brave-browser
+01:40:04.517: 	Bit depth: 24
+01:40:04.517: 	Found proper GLXFBConfig (in 368): yes
+01:40:04.517: 
+01:40:14.785: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:40:14.785: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:40:14.785: 	class: brave-browser
+01:40:14.785: 	Bit depth: 24
+01:40:14.785: 	Found proper GLXFBConfig (in 368): yes
+01:40:14.785: 
+01:40:38.253: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:40:38.253: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:40:38.253: 	class: brave-browser
+01:40:38.253: 	Bit depth: 24
+01:40:38.253: 	Found proper GLXFBConfig (in 368): yes
+01:40:38.253: 
+01:40:53.713: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:40:53.713: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:40:53.713: 	class: brave-browser
+01:40:53.713: 	Bit depth: 24
+01:40:53.713: 	Found proper GLXFBConfig (in 368): yes
+01:40:53.713: 
+01:41:02.580: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:41:02.580: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:41:02.580: 	class: brave-browser
+01:41:02.580: 	Bit depth: 24
+01:41:02.580: 	Found proper GLXFBConfig (in 368): yes
+01:41:02.580: 
+01:41:04.289: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:41:04.289: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:41:04.289: 	class: brave-browser
+01:41:04.289: 	Bit depth: 24
+01:41:04.289: 	Found proper GLXFBConfig (in 368): yes
+01:41:04.289: 
+01:43:45.546: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:43:45.546: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:43:45.546: 	class: brave-browser
+01:43:45.546: 	Bit depth: 24
+01:43:45.546: 	Found proper GLXFBConfig (in 368): yes
+01:43:45.546: 
+01:43:55.448: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:43:55.448: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:43:55.448: 	class: brave-browser
+01:43:55.448: 	Bit depth: 24
+01:43:55.448: 	Found proper GLXFBConfig (in 368): yes
+01:43:55.448: 
+01:44:58.854: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:44:58.854: 	title: Optimización de hiperparametros en Curso de Deep Learning con Pytorch - Brave
+01:44:58.854: 	class: brave-browser
+01:44:58.854: 	Bit depth: 24
+01:44:58.854: 	Found proper GLXFBConfig (in 368): yes
+01:44:58.854: 
+01:44:59.061: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:44:59.061: 	title: https://platzi.com/clases/1724-deep-learning/24002-transfer-learning/ - Brave
+01:44:59.061: 	class: brave-browser
+01:44:59.061: 	Bit depth: 24
+01:44:59.061: 	Found proper GLXFBConfig (in 368): yes
+01:44:59.061: 
+01:45:20.191: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:20.191: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:20.191: 	class: brave-browser
+01:45:20.191: 	Bit depth: 24
+01:45:20.191: 	Found proper GLXFBConfig (in 368): yes
+01:45:20.191: 
+01:45:20.288: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:20.288: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:20.288: 	class: brave-browser
+01:45:20.288: 	Bit depth: 24
+01:45:20.288: 	Found proper GLXFBConfig (in 368): yes
+01:45:20.288: 
+01:45:22.158: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:22.158: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:22.158: 	class: brave-browser
+01:45:22.158: 	Bit depth: 24
+01:45:22.158: 	Found proper GLXFBConfig (in 368): yes
+01:45:22.158: 
+01:45:22.231: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:22.231: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:22.231: 	class: brave-browser
+01:45:22.231: 	Bit depth: 24
+01:45:22.231: 	Found proper GLXFBConfig (in 368): yes
+01:45:22.231: 
+01:45:24.848: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:24.848: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:24.848: 	class: brave-browser
+01:45:24.848: 	Bit depth: 24
+01:45:24.848: 	Found proper GLXFBConfig (in 368): yes
+01:45:24.848: 
+01:45:31.554: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-32-18.mkv' stopped
+01:45:31.554: Output 'simple_file_output': stopping
+01:45:31.554: Output 'simple_file_output': Total frames output: 23749
+01:45:31.554: Output 'simple_file_output': Total drawn frames: 23804
+01:45:31.554: Video stopped, number of skipped frames due to encoding lag: 562/23803 (2.4%)
+01:45:31.554: ==== Recording Stop ================================================
+01:45:40.287: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:40.287: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:40.287: 	class: brave-browser
+01:45:40.287: 	Bit depth: 24
+01:45:40.287: 	Found proper GLXFBConfig (in 368): yes
+01:45:40.287: 
+01:45:42.213: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:45:42.213: 	title: Transfer learning en Curso de Deep Learning con Pytorch - Brave
+01:45:42.213: 	class: brave-browser
+01:45:42.213: 	Bit depth: 24
+01:45:42.213: 	Found proper GLXFBConfig (in 368): yes
+01:45:42.213: 
+01:46:36.149: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:46:36.149: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:46:36.149: 	class: brave-browser
+01:46:36.149: 	Bit depth: 24
+01:46:36.149: 	Found proper GLXFBConfig (in 368): yes
+01:46:36.149: 
+01:46:46.994: ---------------------------------
+01:46:46.994: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:46:46.994: [x264 encoder: 'simple_h264_recording'] profile: high
+01:46:46.994: [x264 encoder: 'simple_h264_recording'] settings:
+01:46:46.994: 	rate_control: CRF
+01:46:46.994: 	bitrate:      0
+01:46:46.994: 	buffer size:  0
+01:46:46.994: 	crf:          21
+01:46:46.994: 	fps_num:      30
+01:46:46.994: 	fps_den:      1
+01:46:46.994: 	width:        1280
+01:46:46.994: 	height:       720
+01:46:46.994: 	keyint:       250
+01:46:46.994: 
+01:46:46.998: ---------------------------------
+01:46:46.998: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:46:46.998: 
+01:46:47.003: ==== Recording Start ===============================================
+01:46:47.003: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-46-46.mkv'...
+01:46:49.248: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:46:49.248: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:46:49.248: 	class: brave-browser
+01:46:49.248: 	Bit depth: 24
+01:46:49.248: 	Found proper GLXFBConfig (in 368): yes
+01:46:49.248: 
+01:47:04.088: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:47:04.088: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:47:04.088: 	class: brave-browser
+01:47:04.088: 	Bit depth: 24
+01:47:04.088: 	Found proper GLXFBConfig (in 368): yes
+01:47:04.088: 
+01:51:19.898: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:51:19.898: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:51:19.898: 	class: brave-browser
+01:51:19.898: 	Bit depth: 24
+01:51:19.898: 	Found proper GLXFBConfig (in 368): yes
+01:51:19.898: 
+01:51:19.919: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:51:19.919: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:51:19.919: 	class: brave-browser
+01:51:19.919: 	Bit depth: 24
+01:51:19.919: 	Found proper GLXFBConfig (in 368): yes
+01:51:19.919: 
+01:55:22.747: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:55:22.747: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:55:22.747: 	class: brave-browser
+01:55:22.747: 	Bit depth: 24
+01:55:22.747: 	Found proper GLXFBConfig (in 368): yes
+01:55:22.747: 
+01:55:22.813: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:55:22.813: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:55:22.813: 	class: brave-browser
+01:55:22.813: 	Bit depth: 24
+01:55:22.813: 	Found proper GLXFBConfig (in 368): yes
+01:55:22.813: 
+01:55:26.689: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:55:26.689: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:55:26.689: 	class: brave-browser
+01:55:26.689: 	Bit depth: 24
+01:55:26.689: 	Found proper GLXFBConfig (in 368): yes
+01:55:26.689: 
+01:56:54.087: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:54.087: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:56:54.087: 	class: brave-browser
+01:56:54.087: 	Bit depth: 24
+01:56:54.087: 	Found proper GLXFBConfig (in 368): yes
+01:56:54.087: 
+01:56:57.351: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:57.351: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:56:57.351: 	class: brave-browser
+01:56:57.351: 	Bit depth: 24
+01:56:57.351: 	Found proper GLXFBConfig (in 368): yes
+01:56:57.351: 
+01:56:58.549: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:58.549: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:56:58.549: 	class: brave-browser
+01:56:58.549: 	Bit depth: 24
+01:56:58.549: 	Found proper GLXFBConfig (in 368): yes
+01:56:58.549: 
+01:56:58.652: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:56:58.652: 	title: Presentación del problema en Curso de Deep Learning con Pytorch - Brave
+01:56:58.652: 	class: brave-browser
+01:56:58.652: 	Bit depth: 24
+01:56:58.652: 	Found proper GLXFBConfig (in 368): yes
+01:56:58.652: 
+01:57:05.926: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-46-46.mkv' stopped
+01:57:05.926: Output 'simple_file_output': stopping
+01:57:05.926: Output 'simple_file_output': Total frames output: 18541
+01:57:05.926: Output 'simple_file_output': Total drawn frames: 18568
+01:57:05.926: ==== Recording Stop ================================================
+01:57:10.714: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:57:10.714: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+01:57:10.714: 	class: brave-browser
+01:57:10.714: 	Bit depth: 24
+01:57:10.714: 	Found proper GLXFBConfig (in 368): yes
+01:57:10.714: 
+01:57:45.048: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:57:45.048: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+01:57:45.048: 	class: brave-browser
+01:57:45.048: 	Bit depth: 24
+01:57:45.048: 	Found proper GLXFBConfig (in 368): yes
+01:57:45.048: 
+01:57:56.767: ---------------------------------
+01:57:56.767: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:57:56.767: [x264 encoder: 'simple_h264_recording'] profile: high
+01:57:56.767: [x264 encoder: 'simple_h264_recording'] settings:
+01:57:56.767: 	rate_control: CRF
+01:57:56.767: 	bitrate:      0
+01:57:56.767: 	buffer size:  0
+01:57:56.767: 	crf:          21
+01:57:56.767: 	fps_num:      30
+01:57:56.767: 	fps_den:      1
+01:57:56.767: 	width:        1280
+01:57:56.767: 	height:       720
+01:57:56.767: 	keyint:       250
+01:57:56.767: 
+01:57:56.770: ---------------------------------
+01:57:56.771: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:57:56.771: 
+01:57:56.775: ==== Recording Start ===============================================
+01:57:56.776: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-57-56.mkv'...
+01:57:58.680: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:57:58.680: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+01:57:58.680: 	class: brave-browser
+01:57:58.680: 	Bit depth: 24
+01:57:58.680: 	Found proper GLXFBConfig (in 368): yes
+01:57:58.680: 
+01:58:09.714: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:58:09.714: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+01:58:09.714: 	class: brave-browser
+01:58:09.714: 	Bit depth: 24
+01:58:09.714: 	Found proper GLXFBConfig (in 368): yes
+01:58:09.714: 
+02:02:00.147: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:02:00.147: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:02:00.147: 	class: brave-browser
+02:02:00.147: 	Bit depth: 24
+02:02:00.147: 	Found proper GLXFBConfig (in 368): yes
+02:02:00.147: 
+02:02:16.815: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:02:16.815: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:02:16.815: 	class: brave-browser
+02:02:16.815: 	Bit depth: 24
+02:02:16.815: 	Found proper GLXFBConfig (in 368): yes
+02:02:16.815: 
+02:05:29.419: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:05:29.419: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:05:29.419: 	class: brave-browser
+02:05:29.419: 	Bit depth: 24
+02:05:29.419: 	Found proper GLXFBConfig (in 368): yes
+02:05:29.419: 
+02:06:28.052: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:06:28.052: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:06:28.052: 	class: brave-browser
+02:06:28.052: 	Bit depth: 24
+02:06:28.052: 	Found proper GLXFBConfig (in 368): yes
+02:06:28.052: 
+02:08:12.547: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:08:12.547: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:08:12.547: 	class: brave-browser
+02:08:12.547: 	Bit depth: 24
+02:08:12.547: 	Found proper GLXFBConfig (in 368): yes
+02:08:12.547: 
+02:08:15.179: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:08:15.179: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:08:15.179: 	class: brave-browser
+02:08:15.179: 	Bit depth: 24
+02:08:15.179: 	Found proper GLXFBConfig (in 368): yes
+02:08:15.179: 
+02:09:07.395: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:07.395: 	title: Definiendo la red generativa que construiremos: CycleGAN en Curso de Deep Learning con Pytorch - Brave
+02:09:07.395: 	class: brave-browser
+02:09:07.395: 	Bit depth: 24
+02:09:07.395: 	Found proper GLXFBConfig (in 368): yes
+02:09:07.395: 
+02:09:07.587: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:07.587: 	title: https://platzi.com/clases/1724-deep-learning/24005-creando-la-red-generadora-convolucional/ - Brave
+02:09:07.587: 	class: brave-browser
+02:09:07.587: 	Bit depth: 24
+02:09:07.587: 	Found proper GLXFBConfig (in 368): yes
+02:09:07.587: 
+02:09:30.636: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:30.636: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:30.636: 	class: brave-browser
+02:09:30.636: 	Bit depth: 24
+02:09:30.636: 	Found proper GLXFBConfig (in 368): yes
+02:09:30.636: 
+02:09:30.809: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:30.809: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:30.809: 	class: brave-browser
+02:09:30.809: 	Bit depth: 24
+02:09:30.809: 	Found proper GLXFBConfig (in 368): yes
+02:09:30.809: 
+02:09:32.702: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:32.702: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:32.702: 	class: brave-browser
+02:09:32.702: 	Bit depth: 24
+02:09:32.702: 	Found proper GLXFBConfig (in 368): yes
+02:09:32.702: 
+02:09:32.743: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:32.743: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:32.743: 	class: brave-browser
+02:09:32.743: 	Bit depth: 24
+02:09:32.743: 	Found proper GLXFBConfig (in 368): yes
+02:09:32.743: 
+02:09:36.814: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:36.814: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:36.814: 	class: brave-browser
+02:09:36.814: 	Bit depth: 24
+02:09:36.814: 	Found proper GLXFBConfig (in 368): yes
+02:09:36.814: 
+02:09:42.088: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-57-56.mkv' stopped
+02:09:42.088: Output 'simple_file_output': stopping
+02:09:42.088: Output 'simple_file_output': Total frames output: 21131
+02:09:42.088: Output 'simple_file_output': Total drawn frames: 21155 (21159 attempted)
+02:09:42.088: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.0%)
+02:09:42.090: ==== Recording Stop ================================================
+02:09:49.583: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:09:49.583: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:09:49.583: 	class: brave-browser
+02:09:49.583: 	Bit depth: 24
+02:09:49.583: 	Found proper GLXFBConfig (in 368): yes
+02:09:49.583: 
+02:10:16.838: ---------------------------------
+02:10:16.838: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:10:16.838: [x264 encoder: 'simple_h264_recording'] profile: high
+02:10:16.838: [x264 encoder: 'simple_h264_recording'] settings:
+02:10:16.838: 	rate_control: CRF
+02:10:16.838: 	bitrate:      0
+02:10:16.838: 	buffer size:  0
+02:10:16.838: 	crf:          21
+02:10:16.838: 	fps_num:      30
+02:10:16.838: 	fps_den:      1
+02:10:16.838: 	width:        1280
+02:10:16.838: 	height:       720
+02:10:16.838: 	keyint:       250
+02:10:16.838: 
+02:10:16.843: ---------------------------------
+02:10:16.844: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:10:16.844: 
+02:10:16.848: ==== Recording Start ===============================================
+02:10:16.848: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 02-10-16.mkv'...
+02:10:19.914: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:10:19.914: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:10:19.914: 	class: brave-browser
+02:10:19.914: 	Bit depth: 24
+02:10:19.914: 	Found proper GLXFBConfig (in 368): yes
+02:10:19.914: 
+02:10:22.017: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:10:22.017: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:10:22.017: 	class: brave-browser
+02:10:22.017: 	Bit depth: 24
+02:10:22.017: 	Found proper GLXFBConfig (in 368): yes
+02:10:22.017: 
+02:10:27.947: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:10:27.947: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:10:27.947: 	class: brave-browser
+02:10:27.947: 	Bit depth: 24
+02:10:27.947: 	Found proper GLXFBConfig (in 368): yes
+02:10:27.947: 
+02:10:27.981: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:10:27.981: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:10:27.981: 	class: brave-browser
+02:10:27.981: 	Bit depth: 24
+02:10:27.981: 	Found proper GLXFBConfig (in 368): yes
+02:10:27.981: 
+02:10:34.514: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:10:34.514: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:10:34.514: 	class: brave-browser
+02:10:34.514: 	Bit depth: 24
+02:10:34.514: 	Found proper GLXFBConfig (in 368): yes
+02:10:34.514: 
+02:11:23.548: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:11:23.548: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:11:23.548: 	class: brave-browser
+02:11:23.548: 	Bit depth: 24
+02:11:23.548: 	Found proper GLXFBConfig (in 368): yes
+02:11:23.548: 
+02:11:23.578: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:11:23.578: 	title: Creando la red generadora convolucional en Curso de Deep Learning con Pytorch - Brave
+02:11:23.578: 	class: brave-browser
+02:11:23.578: 	Bit depth: 24
+02:11:23.578: 	Found proper GLXFBConfig (in 368): yes
+02:11:23.578: 
+02:11:48.981: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:11:48.981: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:11:48.981: 	class: brave-browser
+02:11:48.981: 	Bit depth: 24
+02:11:48.981: 	Found proper GLXFBConfig (in 368): yes
+02:11:48.981: 
+02:11:49.012: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:11:49.012: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:11:49.012: 	class: brave-browser
+02:11:49.012: 	Bit depth: 24
+02:11:49.012: 	Found proper GLXFBConfig (in 368): yes
+02:11:49.012: 
+02:12:33.349: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:12:33.349: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:12:33.349: 	class: brave-browser
+02:12:33.349: 	Bit depth: 24
+02:12:33.349: 	Found proper GLXFBConfig (in 368): yes
+02:12:33.349: 
+02:12:44.823: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 02-10-16.mkv' stopped
+02:12:44.823: Output 'simple_file_output': stopping
+02:12:44.824: Output 'simple_file_output': Total frames output: 4412
+02:12:44.824: Output 'simple_file_output': Total drawn frames: 4439
+02:12:44.824: ==== Recording Stop ================================================
+02:12:49.213: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:12:49.213: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:12:49.213: 	class: brave-browser
+02:12:49.213: 	Bit depth: 24
+02:12:49.213: 	Found proper GLXFBConfig (in 368): yes
+02:12:49.213: 
+02:13:00.913: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:13:00.913: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:13:00.913: 	class: brave-browser
+02:13:00.913: 	Bit depth: 24
+02:13:00.913: 	Found proper GLXFBConfig (in 368): yes
+02:13:00.913: 
+02:13:03.379: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:13:03.379: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:13:03.379: 	class: brave-browser
+02:13:03.379: 	Bit depth: 24
+02:13:03.379: 	Found proper GLXFBConfig (in 368): yes
+02:13:03.379: 
+02:13:04.680: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:13:04.680: 	title: Creando el decoder de la red generadora en Curso de Deep Learning con Pytorch - Brave
+02:13:04.680: 	class: brave-browser
+02:13:04.680: 	Bit depth: 24
+02:13:04.680: 	Found proper GLXFBConfig (in 368): yes
+02:13:04.680: 
+02:17:27.280: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:17:27.280: 	title: Preparando el entrenamiento en Curso de Deep Learning con Pytorch - Brave
+02:17:27.280: 	class: brave-browser
+02:17:27.280: 	Bit depth: 24
+02:17:27.280: 	Found proper GLXFBConfig (in 368): yes
+02:17:27.280: 
+02:17:27.314: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:17:27.314: 	title: Preparando el entrenamiento en Curso de Deep Learning con Pytorch - Brave
+02:17:27.314: 	class: brave-browser
+02:17:27.314: 	Bit depth: 24
+02:17:27.314: 	Found proper GLXFBConfig (in 368): yes
+02:17:27.314: 
+02:17:40.416: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:17:40.416: 	title: Preparando el entrenamiento en Curso de Deep Learning con Pytorch - Brave
+02:17:40.416: 	class: brave-browser
+02:17:40.416: 	Bit depth: 24
+02:17:40.416: 	Found proper GLXFBConfig (in 368): yes
+02:17:40.416: 
+02:17:40.446: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:17:40.446: 	title: Preparando el entrenamiento en Curso de Deep Learning con Pytorch - Brave
+02:17:40.446: 	class: brave-browser
+02:17:40.446: 	Bit depth: 24
+02:17:40.446: 	Found proper GLXFBConfig (in 368): yes
+02:17:40.446: 
+02:18:24.216: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:24.216: 	title: Instanciando redes, perdidas en Curso de Deep Learning con Pytorch - Brave
+02:18:24.216: 	class: brave-browser
+02:18:24.216: 	Bit depth: 24
+02:18:24.216: 	Found proper GLXFBConfig (in 368): yes
+02:18:24.216: 
+02:18:24.246: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:24.246: 	title: Instanciando redes, perdidas en Curso de Deep Learning con Pytorch - Brave
+02:18:24.246: 	class: brave-browser
+02:18:24.246: 	Bit depth: 24
+02:18:24.246: 	Found proper GLXFBConfig (in 368): yes
+02:18:24.246: 
+02:18:29.814: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:18:29.814: 	title: Instanciando redes, perdidas en Curso de Deep Learning con Pytorch - Brave
+02:18:29.814: 	class: brave-browser
+02:18:29.814: 	Bit depth: 24
+02:18:29.814: 	Found proper GLXFBConfig (in 368): yes
+02:18:29.814: 
+02:19:49.780: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:19:49.780: 	title: Cierre del curso en Curso de Deep Learning con Pytorch - Brave
+02:19:49.780: 	class: brave-browser
+02:19:49.780: 	Bit depth: 24
+02:19:49.780: 	Found proper GLXFBConfig (in 368): yes
+02:19:49.780: 
+02:20:01.753: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:20:01.753: 	title: Cierre del curso en Curso de Deep Learning con Pytorch - Brave
+02:20:01.753: 	class: brave-browser
+02:20:01.753: 	Bit depth: 24
+02:20:01.753: 	Found proper GLXFBConfig (in 368): yes
+02:20:01.753: 
+02:20:01.779: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:20:01.779: 	title: Cierre del curso en Curso de Deep Learning con Pytorch - Brave
+02:20:01.779: 	class: brave-browser
+02:20:01.779: 	Bit depth: 24
+02:20:01.779: 	Found proper GLXFBConfig (in 368): yes
+02:20:01.779: 
+02:26:27.022: ==== Shutting down ==================================================
+02:26:27.031: pulse-input: Stopped recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+02:26:27.031: pulse-input: Got 1282194 packets with 262013011 frames
+02:26:27.033: pulse-input: Stopped recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+02:26:27.033: pulse-input: Got 1290812 packets with 262013753 frames
+02:26:27.033: pulse-input: Stopped recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+02:26:27.033: pulse-input: Got 906165 packets with 262016744 frames
+02:26:27.034: All scene data cleared
+02:26:27.034: ------------------------------------------------
+02:26:27.125: [Scripting] Total detached callbacks: 0
+02:26:27.144: Freeing OBS context data
+02:26:27.182: == Profiler Results =============================
+02:26:27.182: run_program_init: 769.406 ms
+02:26:27.182:  ┣OBSApp::AppInit: 1.605 ms
+02:26:27.182:  ┃ ┗OBSApp::InitLocale: 0.676 ms
+02:26:27.182:  ┗OBSApp::OBSInit: 636.061 ms
+02:26:27.182:    ┣obs_startup: 23.312 ms
+02:26:27.182:    ┗OBSBasic::OBSInit: 501.883 ms
+02:26:27.182:      ┣OBSBasic::InitBasicConfig: 0.102 ms
+02:26:27.182:      ┣OBSBasic::ResetAudio: 0.173 ms
+02:26:27.182:      ┣OBSBasic::ResetVideo: 122.907 ms
+02:26:27.182:      ┣OBSBasic::InitOBSCallbacks: 0.009 ms
+02:26:27.182:      ┣OBSBasic::InitHotkeys: 0.071 ms
+02:26:27.182:      ┣obs_load_all_modules: 108.783 ms
+02:26:27.182:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.976 ms
+02:26:27.182:      ┃ ┣obs_init_module(frontend-tools.so): 60.674 ms
+02:26:27.182:      ┃ ┣obs_init_module(image-source.so): 0.007 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-capture.so): 0.358 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-decklink.so): 0.114 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+02:26:27.182:      ┃ ┣obs_init_module(linux-v4l2.so): 0.002 ms
+02:26:27.182:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.243 ms
+02:26:27.183:      ┃ ┃ ┗nvenc_check: 0.218 ms
+02:26:27.183:      ┃ ┣obs_init_module(obs-filters.so): 0.03 ms
+02:26:27.183:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+02:26:27.183:      ┃ ┣obs_init_module(obs-transitions.so): 0.01 ms
+02:26:27.183:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+02:26:27.183:      ┃ ┣obs_init_module(rtmp-services.so): 0.547 ms
+02:26:27.183:      ┃ ┣obs_init_module(text-freetype2.so): 0.014 ms
+02:26:27.183:      ┃ ┗obs_init_module(vlc-video.so): 1.06 ms
+02:26:27.183:      ┣OBSBasic::ResetOutputs: 0.121 ms
+02:26:27.183:      ┣OBSBasic::CreateHotkeys: 0.037 ms
+02:26:27.183:      ┣OBSBasic::InitService: 1.102 ms
+02:26:27.183:      ┣OBSBasic::InitPrimitives: 0.093 ms
+02:26:27.183:      ┗OBSBasic::Load: 106.818 ms
+02:26:27.183: obs_hotkey_thread(25 ms): min=0.064 ms, median=0.202 ms, max=90.096 ms, 99th percentile=2.217 ms, 99.9876% below 25 ms
+02:26:27.183: audio_thread(Audio): min=0 ms, median=0.703 ms, max=2678.67 ms, 99th percentile=9.051 ms
+02:26:27.183:  ┗receive_audio: min=0.003 ms, median=2.886 ms, max=2678.42 ms, 99th percentile=6.286 ms, 0.62767 calls per parent call
+02:26:27.183:    ┣buffer_audio: min=0 ms, median=0.003 ms, max=3.075 ms, 99th percentile=0.011 ms
+02:26:27.183:    ┗do_encode: min=0.02 ms, median=2.878 ms, max=2678.41 ms, 99th percentile=6.267 ms
+02:26:27.183:      ┗encode(simple_aac_recording): min=0.02 ms, median=2.86 ms, max=33.828 ms, 99th percentile=6.206 ms
+02:26:27.183: obs_graphics_thread(33.3333 ms): min=0.168 ms, median=4.33 ms, max=121.37 ms, 99th percentile=9.69 ms, 99.9871% below 33.333 ms
+02:26:27.183:  ┣tick_sources: min=0 ms, median=0.477 ms, max=97.628 ms, 99th percentile=2.513 ms
+02:26:27.183:  ┣output_frame: min=0.089 ms, median=3.678 ms, max=32.842 ms, 99th percentile=6.648 ms
+02:26:27.184:  ┃ ┣gs_context(video->graphics): min=0.089 ms, median=3.259 ms, max=32.243 ms, 99th percentile=5.767 ms
+02:26:27.184:  ┃ ┃ ┣render_video: min=0.019 ms, median=3.216 ms, max=32.166 ms, 99th percentile=5.642 ms
+02:26:27.184:  ┃ ┃ ┃ ┣render_main_texture: min=0.017 ms, median=0.158 ms, max=10.924 ms, 99th percentile=0.437 ms
+02:26:27.184:  ┃ ┃ ┃ ┣render_output_texture: min=0.019 ms, median=0.049 ms, max=8.903 ms, 99th percentile=0.122 ms, 0.580993 calls per parent call
+02:26:27.184:  ┃ ┃ ┃ ┣render_convert_texture: min=0.026 ms, median=0.061 ms, max=4.584 ms, 99th percentile=0.124 ms, 0.580993 calls per parent call
+02:26:27.184:  ┃ ┃ ┃ ┗stage_output_texture: min=2.544 ms, median=3.212 ms, max=31.878 ms, 99th percentile=5.69 ms, 0.580993 calls per parent call
+02:26:27.184:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.005 ms, max=3.773 ms, 99th percentile=0.305 ms
+02:26:27.184:  ┃ ┃ ┗download_frame: min=0 ms, median=0.009 ms, max=1.317 ms, 99th percentile=0.04 ms, 0.580993 calls per parent call
+02:26:27.184:  ┃ ┗output_video_data: min=0.001 ms, median=0.457 ms, max=14.579 ms, 99th percentile=1.192 ms, 0.580954 calls per parent call
+02:26:27.184:  ┗render_displays: min=0.004 ms, median=0.392 ms, max=44.622 ms, 99th percentile=2.038 ms
+02:26:27.184: video_thread(video): min=0 ms, median=1.373 ms, max=2690.61 ms, 99th percentile=2.948 ms
+02:26:27.184:  ┗receive_video: min=0.92 ms, median=1.371 ms, max=2690.6 ms, 99th percentile=3.171 ms
+02:26:27.184:    ┗do_encode: min=0.919 ms, median=1.369 ms, max=2690.6 ms, 99th percentile=3.168 ms
+02:26:27.184:      ┗encode(simple_h264_recording): min=0.905 ms, median=1.343 ms, max=160.731 ms, 99th percentile=3.082 ms
+02:26:27.184: =================================================
+02:26:27.184: == Profiler Time Between Calls ==================
+02:26:27.184: obs_hotkey_thread(25 ms): min=10.779 ms, median=25.295 ms, max=115.233 ms, 85.129% within ±2% of 25 ms (0.00042772% lower, 14.8705% higher)
+02:26:27.184: obs_graphics_thread(33.3333 ms): min=12.433 ms, median=33.333 ms, max=121.443 ms, 99.3206% within ±2% of 33.333 ms (0.339997% lower, 0.339436% higher)
+02:26:27.184: =================================================
+02:26:27.450: Number of memory leaks: 0

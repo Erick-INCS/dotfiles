@@ -1,0 +1,161 @@
+01:37:21.066: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01:37:21.066: CPU Speed: 1596.150MHz
+01:37:21.067: Physical Cores: 4, Logical Cores: 8
+01:37:21.067: Physical Memory: 10966MB Total, 6824MB Free
+01:37:21.067: Kernel Version: Linux 5.8.0-25-generic
+01:37:21.067: Distribution: "Ubuntu" "20.10"
+01:37:21.067: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+01:37:21.068: Portable mode: false
+01:37:21.183: OBS 26.0.2+dfsg1-1 (linux)
+01:37:21.183: ---------------------------------
+01:37:21.184: ---------------------------------
+01:37:21.184: audio settings reset:
+01:37:21.184: 	samples per sec: 48000
+01:37:21.184: 	speakers:        2
+01:37:21.190: ---------------------------------
+01:37:21.190: Initializing OpenGL...
+01:37:21.298: Loading up OpenGL on adapter X.Org AMD RAVEN (DRM 3.38.0, 5.8.0-25-generic, LLVM 11.0.0)
+01:37:21.298: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.2.1, shading language 4.60
+01:37:21.324: ---------------------------------
+01:37:21.324: video settings reset:
+01:37:21.324: 	base resolution:   1366x768
+01:37:21.324: 	output resolution: 1280x720
+01:37:21.324: 	downscale filter:  Bicubic
+01:37:21.324: 	fps:               30/1
+01:37:21.324: 	format:            NV12
+01:37:21.324: 	YUV mode:          709/Partial
+01:37:21.325: NV12 texture support not available
+01:37:21.330: Audio monitoring device:
+01:37:21.330: 	name: Default
+01:37:21.330: 	id: default
+01:37:21.330: ---------------------------------
+01:37:21.333: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:37:21.404: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:37:21.404: No blackmagic support
+01:37:21.430: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:37:21.430: 
+01:37:21.430: FFMPEG VAAPI supported
+01:37:21.440: VLC found, VLC video source enabled
+01:37:21.440: ---------------------------------
+01:37:21.440:   Loaded Modules:
+01:37:21.440:     vlc-video.so
+01:37:21.440:     text-freetype2.so
+01:37:21.440:     rtmp-services.so
+01:37:21.440:     obs-x264.so
+01:37:21.440:     obs-transitions.so
+01:37:21.440:     obs-outputs.so
+01:37:21.440:     obs-filters.so
+01:37:21.440:     obs-ffmpeg.so
+01:37:21.440:     linux-v4l2.so
+01:37:21.440:     linux-pulseaudio.so
+01:37:21.441:     linux-jack.so
+01:37:21.441:     linux-decklink.so
+01:37:21.441:     linux-capture.so
+01:37:21.441:     linux-alsa.so
+01:37:21.441:     image-source.so
+01:37:21.441:     frontend-tools.so
+01:37:21.441:     decklink-ouput-ui.so
+01:37:21.441: ---------------------------------
+01:37:21.441: ==== Startup complete ===============================================
+01:37:21.444: All scene data cleared
+01:37:21.444: ------------------------------------------------
+01:37:21.451: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:37:21.452: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:37:21.452: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:37:21.452: [Loaded global audio device]: 'Desktop Audio'
+01:37:21.527: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:37:21.527: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:37:21.527: pulse-input: Started recording from 'alsa_input.pci-0000_03_00.6.analog-stereo'
+01:37:21.527: [Loaded global audio device]: 'Mic/Aux'
+01:37:21.559: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:21.559: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:37:21.559: 	class: brave-browser
+01:37:21.559: 	Bit depth: 24
+01:37:21.559: 	Found proper GLXFBConfig (in 368): yes
+01:37:21.559: 
+01:37:21.559: pulse-input: Server name: 'pulseaudio 13.99.2'
+01:37:21.560: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:37:21.560: pulse-input: Started recording from 'alsa_output.pci-0000_03_00.6.analog-stereo.monitor'
+01:37:21.561: Switched to scene 'Scene'
+01:37:21.561: ------------------------------------------------
+01:37:21.561: Loaded scenes:
+01:37:21.561: - scene 'Scene':
+01:37:21.561:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+01:37:21.561:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+01:37:21.561: ------------------------------------------------
+01:37:21.668: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:21.668: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:37:21.668: 	class: brave-browser
+01:37:21.668: 	Bit depth: 24
+01:37:21.668: 	Found proper GLXFBConfig (in 368): yes
+01:37:21.668: 
+01:37:22.198: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio Output Capture (PulseAudio))
+01:37:22.198: 
+01:37:23.869: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:23.869: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:37:23.869: 	class: brave-browser
+01:37:23.869: 	Bit depth: 24
+01:37:23.869: 	Found proper GLXFBConfig (in 368): yes
+01:37:23.869: 
+01:37:23.902: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:23.902: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:37:23.902: 	class: brave-browser
+01:37:23.902: 	Bit depth: 24
+01:37:23.902: 	Found proper GLXFBConfig (in 368): yes
+01:37:23.902: 
+01:37:35.404: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Output Capture (PulseAudio))
+01:37:35.404: 
+01:37:43.715: ---------------------------------
+01:37:43.715: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:37:43.715: [x264 encoder: 'simple_h264_recording'] profile: high
+01:37:43.715: [x264 encoder: 'simple_h264_recording'] settings:
+01:37:43.715: 	rate_control: CRF
+01:37:43.715: 	bitrate:      0
+01:37:43.715: 	buffer size:  0
+01:37:43.715: 	crf:          21
+01:37:43.715: 	fps_num:      30
+01:37:43.715: 	fps_den:      1
+01:37:43.715: 	width:        1280
+01:37:43.715: 	height:       720
+01:37:43.715: 	keyint:       250
+01:37:43.715: 
+01:37:43.720: ---------------------------------
+01:37:43.721: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+01:37:43.721: 
+01:37:43.731: ==== Recording Start ===============================================
+01:37:43.732: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/incspn/HDD/video/2020-11-01 01-37-43.mkv'...
+01:37:57.969: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:37:57.969: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:37:57.969: 	class: brave-browser
+01:37:57.969: 	Bit depth: 24
+01:37:57.969: 	Found proper GLXFBConfig (in 368): yes
+01:37:57.969: 
+01:38:08.934: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:08.934: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:38:08.934: 	class: brave-browser
+01:38:08.934: 	Bit depth: 24
+01:38:08.934: 	Found proper GLXFBConfig (in 368): yes
+01:38:08.934: 
+01:38:11.912: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/incspn/HDD/video/2020-11-01 01-37-43.mkv' stopped
+01:38:11.912: Output 'simple_file_output': stopping
+01:38:11.912: Output 'simple_file_output': Total frames output: 819
+01:38:11.912: Output 'simple_file_output': Total drawn frames: 845
+01:38:11.913: ==== Recording Stop ================================================
+01:38:12.170: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:12.170: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:38:12.170: 	class: brave-browser
+01:38:12.170: 	Bit depth: 24
+01:38:12.170: 	Found proper GLXFBConfig (in 368): yes
+01:38:12.170: 
+01:38:14.135: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:14.135: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:38:14.135: 	class: brave-browser
+01:38:14.135: 	Bit depth: 24
+01:38:14.135: 	Found proper GLXFBConfig (in 368): yes
+01:38:14.135: 
+01:38:50.568: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:38:50.568: 	title: Graficar vectores en Curso de Fundamentos de Álgebra Lineal con Python - Brave
+01:38:50.568: 	class: brave-browser
+01:38:50.568: 	Bit depth: 24
+01:38:50.568: 	Found proper GLXFBConfig (in 368): yes
+01:38:50.568: 

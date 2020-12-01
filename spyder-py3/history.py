@@ -1,33 +1,3 @@
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-regression_OLS.summary
-%clear
-regression_OLS.summary()
-x_train.shape
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-y_sm.round()
-y_pred
-y_test
-runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
-regression_OLS.summary()
-regression_OLS.summary2()
-regression_OLS.summary()
-x_train
-x_train.shape
-dataset.shape
-dfDummy
-%clear
-dfDummy.shape
-dfDummy.keys
-dfDummy.keys[0]
-dfDummy.keys
-dfDummy.keys()
-dfDummy.keys()[0]
-dfDummy.keys()[6]
-regressor_OLS.pvalues
-regression_OLS.pvalues
-max(regression_OLS.pvalues)
-np.delete
-np.delete?
 a = np.array([[1,2,3], [4,5,6]])
 a
 np.delete(a, 1, 1)
@@ -102,3 +72,38 @@ runcell(0, '/home/incspn/HDD/Code/Python/Jupyter/titanic/regression.py')
 
 ## ---(Fri Oct 23 07:49:51 2020)---
 runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
+
+## ---(Sun Oct 25 16:57:48 2020)---
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+%clear
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+a = ['s']
+a.copy
+a.copy()
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+range(7.7)
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+%clear
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+%clear
+runcell(0, '/home/incspn/HDD/Code/Python/text_extraction/txt_extraction.py')
+
+## ---(Fri Oct 30 07:08:46 2020)---
+runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
+
+## ---(Fri Nov  6 07:35:09 2020)---
+runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
+
+## ---(Fri Nov  6 07:56:34 2020)---
+runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
+
+## ---(Fri Nov 20 07:30:44 2020)---
+runfile('/home/incspn/HDD/Code/Python/schedule/schedule_plot.py', wdir='/home/incspn/HDD/Code/Python/schedule')
+
+## ---(Thu Nov 26 07:38:00 2020)---
+!cal
+runfile('/home/incspn/HDD/Code/Python/schedule/schedule_plot.py', wdir='/home/incspn/HDD/Code/Python/schedule')
+runcell(0, '/home/incspn/HDD/Code/Python/schedule/schedule_plot.py')
+8-13
+(13-5)*5
+(13-8)*5
